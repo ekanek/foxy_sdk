@@ -1,0 +1,371 @@
+diff --git a/node_modules/react-native-image-crop-picker/android/build/generated/source/buildConfig/debug/com/reactnative/ivpusic/imagepicker/BuildConfig.java b/node_modules/react-native-image-crop-picker/android/build/generated/source/buildConfig/debug/com/reactnative/ivpusic/imagepicker/BuildConfig.java
+new file mode 100644
+index 0000000..74a36dd
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/generated/source/buildConfig/debug/com/reactnative/ivpusic/imagepicker/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.reactnative.ivpusic.imagepicker;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "com.reactnative.ivpusic.imagepicker";
++  public static final String BUILD_TYPE = "debug";
++}
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml b/node_modules/react-native-image-crop-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..ba6e5b5
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+@@ -0,0 +1,27 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.reactnative.ivpusic.imagepicker" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="28" />
++
++    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++
++    <application>
++        <provider
++            android:name="android.support.v4.content.FileProvider"
++            android:authorities="dollar_openBracket_applicationId_closeBracket.provider"
++            android:exported="false"
++            android:grantUriPermissions="true" >
++            <meta-data
++                android:name="android.support.FILE_PROVIDER_PATHS"
++                android:resource="@xml/provider_paths" />
++        </provider>
++
++        <activity
++            android:name="com.yalantis.ucrop.UCropActivity"
++            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json b/node_modules/react-native-image-crop-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+new file mode 100644
+index 0000000..a34b0f9
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.reactnative.ivpusic.imagepicker",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/aar_metadata/debug/aar-metadata.properties b/node_modules/react-native-image-crop-picker/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+new file mode 100644
+index 0000000..8c9c699
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+@@ -0,0 +1,4 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minAndroidGradlePluginVersion=1.0.0
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json b/node_modules/react-native-image-crop-picker/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/compile_r_class_jar/debug/R.jar b/node_modules/react-native-image-crop-picker/android/build/intermediates/compile_r_class_jar/debug/R.jar
+new file mode 100644
+index 0000000..1ee63e7
+Binary files /dev/null and b/node_modules/react-native-image-crop-picker/android/build/intermediates/compile_r_class_jar/debug/R.jar differ
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/compile_symbol_list/debug/R.txt b/node_modules/react-native-image-crop-picker/android/build/intermediates/compile_symbol_list/debug/R.txt
+new file mode 100644
+index 0000000..2f6837d
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/compile_symbol_list/debug/R.txt
+@@ -0,0 +1 @@
++int xml provider_paths 0x0
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/compiled_local_resources/debug/out/xml_provider_paths.xml.flat b/node_modules/react-native-image-crop-picker/android/build/intermediates/compiled_local_resources/debug/out/xml_provider_paths.xml.flat
+new file mode 100644
+index 0000000..d27539d
+Binary files /dev/null and b/node_modules/react-native-image-crop-picker/android/build/intermediates/compiled_local_resources/debug/out/xml_provider_paths.xml.flat differ
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..606a51b
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1,2 @@
++#Mon May 01 16:22:25 GST 2023
++com.reactnative.ivpusic.imagepicker.react-native-image-crop-picker-main-7\:/xml/provider_paths.xml=/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..523a152
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/res"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/build/generated/res/rs/debug"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/res"><file name="provider_paths" path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/res/xml/provider_paths.xml" qualifiers="" type="xml"/></source><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/build/generated/res/rs/debug"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..c023776
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..0a6bdfa
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/packageDebugAssets/merger.xml b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+new file mode 100644
+index 0000000..b44fc1c
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/assets"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/build/intermediates/shader_assets/debug/out"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/debug/assets"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/local_only_symbol_list/debug/R-def.txt b/node_modules/react-native-image-crop-picker/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+new file mode 100644
+index 0000000..a85a273
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+@@ -0,0 +1,3 @@
++R_DEF: Internal format may change without notice
++local
++xml provider_paths
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt b/node_modules/react-native-image-crop-picker/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..69895b0
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,43 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.reactnative.ivpusic.imagepicker" >
++4
++5    <uses-sdk
++6        android:minSdkVersion="16"
++6-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++7        android:targetSdkVersion="28" />
++7-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++8
++9    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++9-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:4:5-81
++9-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:4:22-78
++10
++11    <application>
++11-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:6:5-21:19
++12        <provider
++12-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:8:9-16:20
++13            android:name="android.support.v4.content.FileProvider"
++13-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:9:13-67
++14            android:authorities="${applicationId}.provider"
++14-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:10:13-60
++15            android:exported="false"
++15-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:11:13-37
++16            android:grantUriPermissions="true" >
++16-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:12:13-47
++17            <meta-data
++17-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:13:13-15:58
++18                android:name="android.support.FILE_PROVIDER_PATHS"
++18-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:14:17-67
++19                android:resource="@xml/provider_paths" />
++19-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:15:17-55
++20        </provider>
++21
++22        <activity
++22-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:18:9-20:72
++23            android:name="com.yalantis.ucrop.UCropActivity"
++23-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:19:13-60
++24            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
++24-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:20:13-69
++25    </application>
++26
++27</manifest>
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml b/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+new file mode 100644
+index 0000000..9079e59
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+@@ -0,0 +1,27 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.reactnative.ivpusic.imagepicker" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="28" />
++
++    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++
++    <application>
++        <provider
++            android:name="android.support.v4.content.FileProvider"
++            android:authorities="${applicationId}.provider"
++            android:exported="false"
++            android:grantUriPermissions="true" >
++            <meta-data
++                android:name="android.support.FILE_PROVIDER_PATHS"
++                android:resource="@xml/provider_paths" />
++        </provider>
++
++        <activity
++            android:name="com.yalantis.ucrop.UCropActivity"
++            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/navigation_json/debug/navigation.json b/node_modules/react-native-image-crop-picker/android/build/intermediates/navigation_json/debug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/navigation_json/debug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_manifests/debug/output-metadata.json b/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_manifests/debug/output-metadata.json
+new file mode 100644
+index 0000000..66e8fb8
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_manifests/debug/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "PACKAGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.reactnative.ivpusic.imagepicker",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "../../merged_manifest/debug/AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml b/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml
+new file mode 100644
+index 0000000..ffa74ab
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="utf-8"?>
++<paths xmlns:android="http://schemas.android.com/apk/res/android">
++    <external-path name="external_files" path="."/>
++</paths>
+\ No newline at end of file
+diff --git a/node_modules/react-native-image-crop-picker/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt b/node_modules/react-native-image-crop-picker/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+new file mode 100644
+index 0000000..9170815
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+@@ -0,0 +1,2 @@
++com.reactnative.ivpusic.imagepicker
++xml provider_paths
+diff --git a/node_modules/react-native-image-crop-picker/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/react-native-image-crop-picker/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..336fbc4
+--- /dev/null
++++ b/node_modules/react-native-image-crop-picker/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,53 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:1:1-23:12
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:1:1-23:12
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:1:1-23:12
++	package
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:2:5-50
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:1:11-69
++uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:4:5-81
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:4:22-78
++application
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:6:5-21:19
++provider#android.support.v4.content.FileProvider
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:8:9-16:20
++	android:grantUriPermissions
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:12:13-47
++	android:authorities
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:10:13-60
++	android:exported
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:11:13-37
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:9:13-67
++meta-data#android.support.FILE_PROVIDER_PATHS
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:13:13-15:58
++	android:resource
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:15:17-55
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:14:17-67
++activity#com.yalantis.ucrop.UCropActivity
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:18:9-20:72
++	android:theme
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:20:13-69
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml:19:13-60
++uses-sdk
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/react-native-image-crop-picker/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java b/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java
+index b750aeb..1173e2c 100644
+--- a/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java
++++ b/node_modules/react-native-image-crop-picker/android/src/main/java/com/reactnative/ivpusic/imagepicker/PickerModule.java
+@@ -13,9 +13,8 @@ import android.net.Uri;
+ import android.os.Build;
+ import android.os.Environment;
+ import android.provider.MediaStore;
+-import android.support.annotation.RequiresApi;
+-import android.support.v4.app.ActivityCompat;
+-import android.support.v4.content.FileProvider;
++import androidx.core.app.ActivityCompat;
++import androidx.core.content.FileProvider;
+ import android.util.Base64;
+ import android.webkit.MimeTypeMap;
+ import android.content.ContentResolver;

@@ -1,0 +1,11 @@
+diff --git a/node_modules/react-native-image-size/android/build.gradle b/node_modules/react-native-image-size/android/build.gradle
+index 78d162a..1508683 100644
+--- a/node_modules/react-native-image-size/android/build.gradle
++++ b/node_modules/react-native-image-size/android/build.gradle
+@@ -30,5 +30,5 @@ repositories {
+ }
+ 
+ dependencies {
+-    compile 'com.facebook.react:react-native:+'
++    implementation 'com.facebook.react:react-native:+'
+ }
