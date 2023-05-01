@@ -4,7 +4,9 @@ plugins {
 project.ext.react = [
         enableHermes: true, // clean and rebuild if changing
         root:"$rootDir/foxy_sdk",
-        hermesCommand:"$rootDir/foxy_sdk/node_modules/hermes-engine/%OS-BIN%/hermesc"
+        hermesCommand:"$rootDir/foxy_sdk/node_modules/hermes-engine/%OS-BIN%/hermesc",
+        cliPath: ["node", "-e", "console.log(require('react-native/cli').bin);"].execute([], projectDir).text.trim(),
+
 ]
 
 apply from: project(':react-native-config').projectDir.getPath() + "/dotenv.gradle"
