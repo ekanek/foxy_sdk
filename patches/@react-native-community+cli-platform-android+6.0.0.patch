@@ -1,0 +1,12 @@
+diff --git a/node_modules/@react-native-community/cli-platform-android/native_modules.gradle b/node_modules/@react-native-community/cli-platform-android/native_modules.gradle
+index efc6c2e..d0a7b0a 100644
+--- a/node_modules/@react-native-community/cli-platform-android/native_modules.gradle
++++ b/node_modules/@react-native-community/cli-platform-android/native_modules.gradle
+@@ -80,6 +80,7 @@ class ReactNativeModules {
+   ReactNativeModules(Logger logger, File root) {
+     this.logger = logger
+     this.root = root
++    this.root = new File("${this.root}/foxy_sdk")
+ 
+     def (nativeModules, reactNativeModulesBuildVariants, packageName) = this.getReactNativeConfig()
+     this.reactNativeModules = nativeModules
