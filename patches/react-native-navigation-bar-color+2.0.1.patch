@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-navigation-bar-color/android/src/main/java/com/thebylito/navigationbarcolor/NavigationBarColorModule.java b/node_modules/react-native-navigation-bar-color/android/src/main/java/com/thebylito/navigationbarcolor/NavigationBarColorModule.java
+index b3edac7..f395c95 100644
+--- a/node_modules/react-native-navigation-bar-color/android/src/main/java/com/thebylito/navigationbarcolor/NavigationBarColorModule.java
++++ b/node_modules/react-native-navigation-bar-color/android/src/main/java/com/thebylito/navigationbarcolor/NavigationBarColorModule.java
+@@ -127,7 +127,7 @@ public class NavigationBarColorModule extends ReactContextBaseJavaModule {
+                 }
+ 
+             } else {
+-                promise.reject(ERROR_NO_ACTIVITY, new Throwable(ERROR_NO_ACTIVITY_MESSAGE));
++                promise.reject(ERROR_NO_ACTIVITY, ERROR_NO_ACTIVITY_MESSAGE);
+ 
+             }
+         } else {

@@ -1,12 +1,10 @@
 diff --git a/node_modules/react-native-config/android/build.gradle b/node_modules/react-native-config/android/build.gradle
-index c8f7fd4..2a08025 100644
+index c8f7fd4..ea0f59b 100644
 --- a/node_modules/react-native-config/android/build.gradle
 +++ b/node_modules/react-native-config/android/build.gradle
-@@ -15,12 +15,13 @@ def safeExtGet(prop, fallback) {
-     rootProject.ext.has(prop) ? rootProject.ext.get(prop) : fallback
+@@ -16,11 +16,11 @@ def safeExtGet(prop, fallback) {
  }
  
-+
  android {
 -    compileSdkVersion rootProject.ext.compileSdkVersion
 +    compileSdkVersion 33

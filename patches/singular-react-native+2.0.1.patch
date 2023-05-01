@@ -1,8 +1,8 @@
 diff --git a/node_modules/singular-react-native/android/build.gradle b/node_modules/singular-react-native/android/build.gradle
-index a4d1b64..e1ef6a6 100644
+index a4d1b64..f008d29 100644
 --- a/node_modules/singular-react-native/android/build.gradle
 +++ b/node_modules/singular-react-native/android/build.gradle
-@@ -35,12 +35,12 @@ repositories {
+@@ -35,7 +35,7 @@ repositories {
      }
      mavenCentral()
      jcenter()
@@ -11,9 +11,3 @@ index a4d1b64..e1ef6a6 100644
      google()
  }
  
- dependencies {
-     implementation 'com.facebook.react:react-native:+'
--    implementation 'com.singular.sdk:singular_sdk:11.+'
-+    implementation 'com.singular.sdk:singular_sdk:12.0.6'
-     implementation 'com.android.support:support-annotations:28.0.0'
- }

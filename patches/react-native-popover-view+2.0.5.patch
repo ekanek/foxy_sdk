@@ -1,0 +1,21 @@
+diff --git a/node_modules/react-native-popover-view/src/Popover.js b/node_modules/react-native-popover-view/src/Popover.js
+index bcbab77..616e03c 100644
+--- a/node_modules/react-native-popover-view/src/Popover.js
++++ b/node_modules/react-native-popover-view/src/Popover.js
+@@ -959,14 +959,14 @@ var styles = {
+     left: 0,
+     right: 0,
+     position: 'absolute',
+-    backgroundColor: 'rgba(0, 0, 0, 0.5)'
++   // backgroundColor: 'rgba(0, 0, 0, 0.5)'
+   },
+   contentContainer: {
+     flexDirection: 'column',
+   },
+   popoverContainer: {
+     position: 'absolute',
+-    zIndex: 1000
++    //zIndex: 1000
+   },
+   popoverContent: {
+     backgroundColor: 'white',
