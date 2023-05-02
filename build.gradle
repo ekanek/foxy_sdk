@@ -18,9 +18,9 @@ android {
     namespace 'com.foxy.foxy_sdk'
     compileSdk 33
 
-//    packagingOptions {
-//       exclude "libs/**"
-//    }
+    packagingOptions {
+       exclude "lib/**"
+    }
 
 
     defaultConfig {
