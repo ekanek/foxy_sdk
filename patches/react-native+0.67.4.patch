@@ -39,10 +39,10 @@ index e69e07a..c94198a 100644
    }
  
 diff --git a/node_modules/react-native/Libraries/Lists/VirtualizedList.js b/node_modules/react-native/Libraries/Lists/VirtualizedList.js
-index a7c1567..04d1aed 100644
+index 2648cc3..205e011 100644
 --- a/node_modules/react-native/Libraries/Lists/VirtualizedList.js
 +++ b/node_modules/react-native/Libraries/Lists/VirtualizedList.js
-@@ -1134,11 +1134,11 @@ class VirtualizedList extends React.PureComponent<Props, State> {
+@@ -1133,11 +1133,11 @@ class VirtualizedList extends React.PureComponent<Props, State> {
                this.context == null
              ) {
                // TODO (T46547044): use React.warn once 16.9 is sync'd: https://github.com/facebook/react/pull/15170
@@ -57,6 +57,21 @@ index a7c1567..04d1aed 100644
                this._hasWarned.nesting = true;
              }
              return innerRet;
+diff --git a/node_modules/react-native/react.gradle b/node_modules/react-native/react.gradle
+index 2aefa12..8056e5c 100644
+--- a/node_modules/react-native/react.gradle
++++ b/node_modules/react-native/react.gradle
+@@ -28,8 +28,8 @@ def detectCliPath(config) {
+     if (config.cliPath) {
+         return "${projectDir}/${config.cliPath}"
+     }
+-    if (new File("${projectDir}/../../node_modules/react-native/cli.js").exists()) {
+-        return "${projectDir}/../../node_modules/react-native/cli.js"
++    if (new File("${projectDir}/node_modules/react-native/cli.js").exists()) {
++        return "${projectDir}/node_modules/react-native/cli.js"
+     }
+     throw new Exception("Couldn't determine CLI location. " +
+              "Please set `project.ext.react.cliPath` to the path of the react-native cli.js");
 diff --git a/node_modules/react-native/scripts/.packager.env b/node_modules/react-native/scripts/.packager.env
 new file mode 100644
 index 0000000..21a13cf
