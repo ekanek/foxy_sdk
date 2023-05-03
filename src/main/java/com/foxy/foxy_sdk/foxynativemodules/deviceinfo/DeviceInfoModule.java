@@ -29,7 +29,7 @@ import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.WritableMap;
-import com.pardeep.integrationtesting.BuildConfig;
+import com.foxy.foxy_sdk.BuildConfig;
 
 
 import java.io.File;
