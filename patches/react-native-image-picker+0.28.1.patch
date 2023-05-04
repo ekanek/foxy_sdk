@@ -407,10 +407,10 @@ index 0000000..3e99a5d
 +}
 diff --git a/node_modules/react-native-image-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml b/node_modules/react-native-image-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
 new file mode 100644
-index 0000000..38bb1f8
+index 0000000..1080e90
 --- /dev/null
 +++ b/node_modules/react-native-image-picker/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
-@@ -0,0 +1,21 @@
+@@ -0,0 +1,22 @@
 +<?xml version="1.0" encoding="utf-8"?>
 +<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 +    package="com.imagepicker" >
@@ -420,15 +420,16 @@ index 0000000..38bb1f8
 +        android:targetSdkVersion="26" />
 +
 +    <application>
-+        <provider
-+            android:name="com.imagepicker.FileProvider"
-+            android:authorities="dollar_openBracket_applicationId_closeBracket.provider"
-+            android:exported="false"
-+            android:grantUriPermissions="true" >
-+            <meta-data
-+                android:name="android.support.FILE_PROVIDER_PATHS"
-+                android:resource="@xml/provider_paths" />
-+        </provider>
++
++        <!-- <provider -->
++        <!-- android:name="com.imagepicker.FileProvider" -->
++        <!-- android:authorities="${applicationId}.provider" -->
++        <!-- android:exported="false" -->
++        <!-- android:grantUriPermissions="true"> -->
++        <!-- <meta-data -->
++        <!-- android:name="android.support.FILE_PROVIDER_PATHS_image_picker" -->
++        <!-- android:resource="@xml/provider_paths" /> -->
++        <!-- </provider> -->
 +    </application>
 +
 +</manifest>
@@ -460,10 +461,10 @@ index 0000000..c7eb6ce
 \ No newline at end of file
 diff --git a/node_modules/react-native-image-picker/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml b/node_modules/react-native-image-picker/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml
 new file mode 100644
-index 0000000..38bb1f8
+index 0000000..1080e90
 --- /dev/null
 +++ b/node_modules/react-native-image-picker/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml
-@@ -0,0 +1,21 @@
+@@ -0,0 +1,22 @@
 +<?xml version="1.0" encoding="utf-8"?>
 +<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 +    package="com.imagepicker" >
@@ -473,15 +474,16 @@ index 0000000..38bb1f8
 +        android:targetSdkVersion="26" />
 +
 +    <application>
-+        <provider
-+            android:name="com.imagepicker.FileProvider"
-+            android:authorities="dollar_openBracket_applicationId_closeBracket.provider"
-+            android:exported="false"
-+            android:grantUriPermissions="true" >
-+            <meta-data
-+                android:name="android.support.FILE_PROVIDER_PATHS"
-+                android:resource="@xml/provider_paths" />
-+        </provider>
++
++        <!-- <provider -->
++        <!-- android:name="com.imagepicker.FileProvider" -->
++        <!-- android:authorities="${applicationId}.provider" -->
++        <!-- android:exported="false" -->
++        <!-- android:grantUriPermissions="true"> -->
++        <!-- <meta-data -->
++        <!-- android:name="android.support.FILE_PROVIDER_PATHS_image_picker" -->
++        <!-- android:resource="@xml/provider_paths" /> -->
++        <!-- </provider> -->
 +    </application>
 +
 +</manifest>
@@ -1017,10 +1019,10 @@ index 0000000..c7bf5c2
 +xml provider_paths
 diff --git a/node_modules/react-native-image-picker/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt b/node_modules/react-native-image-picker/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
 new file mode 100644
-index 0000000..ce694e4
+index 0000000..de6a245
 --- /dev/null
 +++ b/node_modules/react-native-image-picker/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
-@@ -0,0 +1,32 @@
+@@ -0,0 +1,25 @@
 +1<?xml version="1.0" encoding="utf-8"?>
 +2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 +3    package="com.imagepicker" >
@@ -1033,32 +1035,25 @@ index 0000000..ce694e4
 +8
 +9    <application>
 +9-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:6:5-16:19
-+10        <provider
-+10-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:7:7-15:20
-+11            android:name="com.imagepicker.FileProvider"
-+11-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:8:13-56
-+12            android:authorities="${applicationId}.provider"
-+12-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:9:13-60
-+13            android:exported="false"
-+13-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:10:13-37
-+14            android:grantUriPermissions="true" >
-+14-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:11:13-47
-+15            <meta-data
-+15-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:12:13-14:58
-+16                android:name="android.support.FILE_PROVIDER_PATHS"
-+16-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:13:17-67
-+17                android:resource="@xml/provider_paths" />
-+17-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:14:17-55
-+18        </provider>
-+19    </application>
-+20
-+21</manifest>
++10
++11        <!-- <provider -->
++12        <!-- android:name="com.imagepicker.FileProvider" -->
++13        <!-- android:authorities="${applicationId}.provider" -->
++14        <!-- android:exported="false" -->
++15        <!-- android:grantUriPermissions="true"> -->
++16        <!-- <meta-data -->
++17        <!-- android:name="android.support.FILE_PROVIDER_PATHS_image_picker" -->
++18        <!-- android:resource="@xml/provider_paths" /> -->
++19        <!-- </provider> -->
++20    </application>
++21
++22</manifest>
 diff --git a/node_modules/react-native-image-picker/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt b/node_modules/react-native-image-picker/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
 new file mode 100644
-index 0000000..ce694e4
+index 0000000..de6a245
 --- /dev/null
 +++ b/node_modules/react-native-image-picker/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
-@@ -0,0 +1,32 @@
+@@ -0,0 +1,25 @@
 +1<?xml version="1.0" encoding="utf-8"?>
 +2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 +3    package="com.imagepicker" >
@@ -1071,36 +1066,29 @@ index 0000000..ce694e4
 +8
 +9    <application>
 +9-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:6:5-16:19
-+10        <provider
-+10-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:7:7-15:20
-+11            android:name="com.imagepicker.FileProvider"
-+11-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:8:13-56
-+12            android:authorities="${applicationId}.provider"
-+12-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:9:13-60
-+13            android:exported="false"
-+13-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:10:13-37
-+14            android:grantUriPermissions="true" >
-+14-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:11:13-47
-+15            <meta-data
-+15-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:12:13-14:58
-+16                android:name="android.support.FILE_PROVIDER_PATHS"
-+16-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:13:17-67
-+17                android:resource="@xml/provider_paths" />
-+17-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:14:17-55
-+18        </provider>
-+19    </application>
-+20
-+21</manifest>
++10
++11        <!-- <provider -->
++12        <!-- android:name="com.imagepicker.FileProvider" -->
++13        <!-- android:authorities="${applicationId}.provider" -->
++14        <!-- android:exported="false" -->
++15        <!-- android:grantUriPermissions="true"> -->
++16        <!-- <meta-data -->
++17        <!-- android:name="android.support.FILE_PROVIDER_PATHS_image_picker" -->
++18        <!-- android:resource="@xml/provider_paths" /> -->
++19        <!-- </provider> -->
++20    </application>
++21
++22</manifest>
 diff --git a/node_modules/react-native-image-picker/android/build/intermediates/merged_java_res/debug/feature-react-native-image-picker.jar b/node_modules/react-native-image-picker/android/build/intermediates/merged_java_res/debug/feature-react-native-image-picker.jar
 new file mode 100644
 index 0000000..15cb0ec
 Binary files /dev/null and b/node_modules/react-native-image-picker/android/build/intermediates/merged_java_res/debug/feature-react-native-image-picker.jar differ
 diff --git a/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml b/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
 new file mode 100644
-index 0000000..8521d27
+index 0000000..1080e90
 --- /dev/null
 +++ b/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
-@@ -0,0 +1,21 @@
+@@ -0,0 +1,22 @@
 +<?xml version="1.0" encoding="utf-8"?>
 +<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 +    package="com.imagepicker" >
@@ -1110,25 +1098,26 @@ index 0000000..8521d27
 +        android:targetSdkVersion="26" />
 +
 +    <application>
-+        <provider
-+            android:name="com.imagepicker.FileProvider"
-+            android:authorities="${applicationId}.provider"
-+            android:exported="false"
-+            android:grantUriPermissions="true" >
-+            <meta-data
-+                android:name="android.support.FILE_PROVIDER_PATHS"
-+                android:resource="@xml/provider_paths" />
-+        </provider>
++
++        <!-- <provider -->
++        <!-- android:name="com.imagepicker.FileProvider" -->
++        <!-- android:authorities="${applicationId}.provider" -->
++        <!-- android:exported="false" -->
++        <!-- android:grantUriPermissions="true"> -->
++        <!-- <meta-data -->
++        <!-- android:name="android.support.FILE_PROVIDER_PATHS_image_picker" -->
++        <!-- android:resource="@xml/provider_paths" /> -->
++        <!-- </provider> -->
 +    </application>
 +
 +</manifest>
 \ No newline at end of file
 diff --git a/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml b/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml
 new file mode 100644
-index 0000000..8521d27
+index 0000000..1080e90
 --- /dev/null
 +++ b/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml
-@@ -0,0 +1,21 @@
+@@ -0,0 +1,22 @@
 +<?xml version="1.0" encoding="utf-8"?>
 +<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 +    package="com.imagepicker" >
@@ -1138,15 +1127,16 @@ index 0000000..8521d27
 +        android:targetSdkVersion="26" />
 +
 +    <application>
-+        <provider
-+            android:name="com.imagepicker.FileProvider"
-+            android:authorities="${applicationId}.provider"
-+            android:exported="false"
-+            android:grantUriPermissions="true" >
-+            <meta-data
-+                android:name="android.support.FILE_PROVIDER_PATHS"
-+                android:resource="@xml/provider_paths" />
-+        </provider>
++
++        <!-- <provider -->
++        <!-- android:name="com.imagepicker.FileProvider" -->
++        <!-- android:authorities="${applicationId}.provider" -->
++        <!-- android:exported="false" -->
++        <!-- android:grantUriPermissions="true"> -->
++        <!-- <meta-data -->
++        <!-- android:name="android.support.FILE_PROVIDER_PATHS_image_picker" -->
++        <!-- android:resource="@xml/provider_paths" /> -->
++        <!-- </provider> -->
 +    </application>
 +
 +</manifest>
@@ -1577,10 +1567,10 @@ index 0000000..2f1ea43
 +xml provider_paths
 diff --git a/node_modules/react-native-image-picker/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/react-native-image-picker/android/build/outputs/logs/manifest-merger-debug-report.txt
 new file mode 100644
-index 0000000..d97bd7b
+index 0000000..a50f0ed
 --- /dev/null
 +++ b/node_modules/react-native-image-picker/android/build/outputs/logs/manifest-merger-debug-report.txt
-@@ -0,0 +1,43 @@
+@@ -0,0 +1,27 @@
 +-- Merging decision tree log ---
 +manifest
 +ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:2:1-17:12
@@ -1594,22 +1584,6 @@ index 0000000..d97bd7b
 +		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:3:3-61
 +application
 +ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:6:5-16:19
-+provider#com.imagepicker.FileProvider
-+ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:7:7-15:20
-+	android:grantUriPermissions
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:11:13-47
-+	android:authorities
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:9:13-60
-+	android:exported
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:10:13-37
-+	android:name
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:8:13-56
-+meta-data#android.support.FILE_PROVIDER_PATHS
-+ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:12:13-14:58
-+	android:resource
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:14:17-55
-+	android:name
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:13:17-67
 +uses-sdk
 +INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
 +INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml
@@ -1626,10 +1600,10 @@ index 0000000..d97bd7b
 +		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml
 diff --git a/node_modules/react-native-image-picker/android/build/outputs/logs/manifest-merger-release-report.txt b/node_modules/react-native-image-picker/android/build/outputs/logs/manifest-merger-release-report.txt
 new file mode 100644
-index 0000000..d97bd7b
+index 0000000..a50f0ed
 --- /dev/null
 +++ b/node_modules/react-native-image-picker/android/build/outputs/logs/manifest-merger-release-report.txt
-@@ -0,0 +1,43 @@
+@@ -0,0 +1,27 @@
 +-- Merging decision tree log ---
 +manifest
 +ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:2:1-17:12
@@ -1643,22 +1617,6 @@ index 0000000..d97bd7b
 +		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:3:3-61
 +application
 +ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:6:5-16:19
-+provider#com.imagepicker.FileProvider
-+ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:7:7-15:20
-+	android:grantUriPermissions
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:11:13-47
-+	android:authorities
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:9:13-60
-+	android:exported
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:10:13-37
-+	android:name
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:8:13-56
-+meta-data#android.support.FILE_PROVIDER_PATHS
-+ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:12:13-14:58
-+	android:resource
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:14:17-55
-+	android:name
-+		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml:13:17-67
 +uses-sdk
 +INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
 +INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml
@@ -1681,6 +1639,34 @@ diff --git a/node_modules/react-native-image-picker/android/build/tmp/compileRel
 new file mode 100644
 index 0000000..2da9d63
 Binary files /dev/null and b/node_modules/react-native-image-picker/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml b/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml
+index 7cb4360..e23019e 100644
+--- a/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml
++++ b/node_modules/react-native-image-picker/android/src/main/AndroidManifest.xml
+@@ -4,14 +4,14 @@
+   package="com.imagepicker"
+   >
+     <application>
+-      <provider
+-            android:name="com.imagepicker.FileProvider"
+-            android:authorities="${applicationId}.provider"
+-            android:exported="false"
+-            android:grantUriPermissions="true">
+-            <meta-data
+-                android:name="android.support.FILE_PROVIDER_PATHS"
+-                android:resource="@xml/provider_paths" />
+-        </provider>
++<!--      <provider-->
++<!--            android:name="com.imagepicker.FileProvider"-->
++<!--            android:authorities="${applicationId}.provider"-->
++<!--            android:exported="false"-->
++<!--            android:grantUriPermissions="true">-->
++<!--            <meta-data-->
++<!--                android:name="android.support.FILE_PROVIDER_PATHS_image_picker"-->
++<!--                android:resource="@xml/provider_paths" />-->
++<!--        </provider>-->
+     </application>
+ </manifest>
 diff --git a/node_modules/react-native-image-picker/android/src/main/java/com/imagepicker/FileProvider.java b/node_modules/react-native-image-picker/android/src/main/java/com/imagepicker/FileProvider.java
 index 9c706e6..771c0a0 100644
 --- a/node_modules/react-native-image-picker/android/src/main/java/com/imagepicker/FileProvider.java
