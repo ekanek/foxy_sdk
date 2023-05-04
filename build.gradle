@@ -19,8 +19,11 @@ android {
     compileSdk 33
 
     packagingOptions {
-       exclude "lib/**"
+
+        exclude 'lib/*'
     }
+
+
 
 
     defaultConfig {
@@ -57,18 +60,18 @@ dependencies {
     implementation project(":app")
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.play:core:1.10.3'
-    implementation ('com.google.firebase:firebase-ml-vision:24.1.0') {
-        exclude group: 'com.google.android.gms'
-        exclude group: 'androidx.exifinterface'
-    }
+//    implementation ('com.google.firebase:firebase-ml-vision:24.1.0') {
+//        exclude group: 'com.google.android.gms'
+//        exclude group: 'androidx.exifinterface'
+//    }
     implementation 'com.facebook.soloader:soloader:0.10.5+'
 
-    constraints {
-
-        implementation('com.google.android.gms:play-services-vision:20.1.1!!')
-        implementation('com.google.android.gms:play-services-vision-common:19.1.1!!')
-        implementation('com.google.android.gms:play-services-vision-image-label:18.0.5!!')
-    }
+//    constraints {
+//
+//        implementation('com.google.android.gms:play-services-vision:20.1.1!!')
+//        implementation('com.google.android.gms:play-services-vision-common:19.1.1!!')
+//        implementation('com.google.android.gms:play-services-vision-image-label:18.0.5!!')
+//    }
     implementation 'com.facebook.react:react-native:+'
 
 
