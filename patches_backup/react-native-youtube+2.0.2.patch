@@ -1,0 +1,42 @@
+diff --git a/node_modules/react-native-youtube/RCTYouTube.xcodeproj/xcuserdata/mrinalmaheshwari.xcuserdatad/xcschemes/xcschememanagement.plist b/node_modules/react-native-youtube/RCTYouTube.xcodeproj/xcuserdata/mrinalmaheshwari.xcuserdatad/xcschemes/xcschememanagement.plist
+new file mode 100644
+index 0000000..280c170
+--- /dev/null
++++ b/node_modules/react-native-youtube/RCTYouTube.xcodeproj/xcuserdata/mrinalmaheshwari.xcuserdatad/xcschemes/xcschememanagement.plist
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
++<plist version="1.0">
++<dict>
++	<key>SchemeUserState</key>
++	<dict>
++		<key>RCTYouTube.xcscheme_^#shared#^_</key>
++		<dict>
++			<key>orderHint</key>
++			<integer>113</integer>
++		</dict>
++	</dict>
++</dict>
++</plist>
+diff --git a/node_modules/react-native-youtube/android/build.gradle b/node_modules/react-native-youtube/android/build.gradle
+index 0417bc6..192902e 100755
+--- a/node_modules/react-native-youtube/android/build.gradle
++++ b/node_modules/react-native-youtube/android/build.gradle
+@@ -6,12 +6,15 @@ def safeExtGet(prop, fallback) {
+ 
+ buildscript {
+     repositories {
++        mavenCentral()
+         google()
+-        jcenter()
++        maven {
++            url "https://maven.google.com"
++    	}
+     }
+ 
+     dependencies {
+-        classpath 'com.android.tools.build:gradle:3.3.1'
++        classpath 'com.android.tools.build:gradle:4.1.3'
+     }
+ }
+ 

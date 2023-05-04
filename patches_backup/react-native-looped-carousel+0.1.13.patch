@@ -1,0 +1,39 @@
+diff --git a/node_modules/react-native-looped-carousel/index.js b/node_modules/react-native-looped-carousel/index.js
+index a47d574..430215e 100644
+--- a/node_modules/react-native-looped-carousel/index.js
++++ b/node_modules/react-native-looped-carousel/index.js
+@@ -150,7 +150,9 @@ export default class Carousel extends Component {
+     }
+     return pages.map((page, i) => (
+       <TouchableWithoutFeedback style={[{ ...size }, pageStyle]} key={`page${i}`}>
+-        {page}
++	<>
++          {page}
++	</>
+       </TouchableWithoutFeedback>
+     ));
+   }
+@@ -343,14 +345,21 @@ export default class Carousel extends Component {
+     </View>)
+ 
+   _renderBullets = (pageLength) => {
++    const {videoBulletStyle,chosenTriangleBulletStyle,isHeroVideoPresent,bulletStyle,chosenBulletStyle} = this.props
+     const bullets = [];
++    var corouselBulletStyle = bulletStyle;
++    var selectedCorouselBulletStyle = chosenBulletStyle
+     for (let i = 0; i < pageLength; i += 1) {
++      if(isHeroVideoPresent && i ===pageLength-1){
++        corouselBulletStyle = videoBulletStyle
++        selectedCorouselBulletStyle = chosenTriangleBulletStyle
++      }
+       bullets.push(
+         <TouchableWithoutFeedback onPress={() => this.animateToPage(i)} key={`bullet${i}`}>
+           <View
+             style={i === this.state.currentPage ?
+-              [styles.chosenBullet, this.props.chosenBulletStyle] :
+-              [styles.bullet, this.props.bulletStyle]}
++              [styles.chosenBullet, selectedCorouselBulletStyle ] :
++              [styles.bullet, corouselBulletStyle]}
+           />
+         </TouchableWithoutFeedback>);
+     }

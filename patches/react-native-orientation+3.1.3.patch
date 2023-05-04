@@ -1,23 +1,7 @@
 diff --git a/node_modules/react-native-orientation/android/build.gradle b/node_modules/react-native-orientation/android/build.gradle
-index e09fb27..b3c8d16 100644
+index e09fb27..f5b1e04 100644
 --- a/node_modules/react-native-orientation/android/build.gradle
 +++ b/node_modules/react-native-orientation/android/build.gradle
-@@ -1,12 +1,12 @@
- apply plugin: 'com.android.library'
- 
- android {
--    compileSdkVersion 23
--    buildToolsVersion "23.0.1"
-+    compileSdkVersion 28
-+    buildToolsVersion "28.0.3"
- 
-     defaultConfig {
-         minSdkVersion 16
--        targetSdkVersion 22
-+        targetSdkVersion 28
-         versionCode 1
-         versionName "1.0"
-         ndk {
 @@ -16,5 +16,5 @@ android {
  }
  
@@ -25,3 +9,713 @@ index e09fb27..b3c8d16 100644
 -    compile "com.facebook.react:react-native:+"
 +    implementation "com.facebook.react:react-native:+"
  }
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/results.bin b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/results.bin
+new file mode 100644
+index 0000000..6e09b8c
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/results.bin
+@@ -0,0 +1 @@
++o/out
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/AndroidManifest.xml b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/AndroidManifest.xml
+new file mode 100644
+index 0000000..158bf85
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/AndroidManifest.xml
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.github.yamill.orientation" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="22" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/META-INF/com/android/build/gradle/aar-metadata.properties b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/META-INF/com/android/build/gradle/aar-metadata.properties
+new file mode 100644
+index 0000000..8c9c699
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/META-INF/com/android/build/gradle/aar-metadata.properties
+@@ -0,0 +1,4 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minAndroidGradlePluginVersion=1.0.0
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/R.txt b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/jars/classes.jar b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/jars/classes.jar
+new file mode 100644
+index 0000000..e9a05f8
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/jars/classes.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/jars/libs/R.jar b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/jars/libs/R.jar
+new file mode 100644
+index 0000000..8773e18
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/30a876efdba6c0eeaa925d26f0f22727/transformed/out/jars/libs/R.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/358ba19d57bcd34361aac1e46aa807a0/results.bin b/node_modules/react-native-orientation/android/build/.transforms/358ba19d57bcd34361aac1e46aa807a0/results.bin
+new file mode 100644
+index 0000000..1ed65e0
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/.transforms/358ba19d57bcd34361aac1e46aa807a0/results.bin
+@@ -0,0 +1 @@
++i/
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/results.bin b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/results.bin
+new file mode 100644
+index 0000000..5ff383e
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/results.bin
+@@ -0,0 +1 @@
++o/debug
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/BuildConfig.dex b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/BuildConfig.dex
+new file mode 100644
+index 0000000..351a712
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/BuildConfig.dex differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationModule$1.dex b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationModule$1.dex
+new file mode 100644
+index 0000000..a25ef65
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationModule$1.dex differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationModule.dex b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationModule.dex
+new file mode 100644
+index 0000000..1cd45ee
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationModule.dex differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationPackage.dex b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationPackage.dex
+new file mode 100644
+index 0000000..4980657
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/debug/com/github/yamill/orientation/OrientationPackage.dex differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/desugar_graph.bin b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/desugar_graph.bin
+new file mode 100644
+index 0000000..601f245
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/3dd9e279680e8dfc0239bf90a365eefd/transformed/desugar_graph.bin differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/results.bin b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/results.bin
+new file mode 100644
+index 0000000..9e53e72
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/results.bin
+@@ -0,0 +1 @@
++o/release
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/desugar_graph.bin b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/desugar_graph.bin
+new file mode 100644
+index 0000000..601f245
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/desugar_graph.bin differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/BuildConfig.dex b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/BuildConfig.dex
+new file mode 100644
+index 0000000..a51ef49
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/BuildConfig.dex differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationModule$1.dex b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationModule$1.dex
+new file mode 100644
+index 0000000..c326f39
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationModule$1.dex differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationModule.dex b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationModule.dex
+new file mode 100644
+index 0000000..40f24b5
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationModule.dex differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationPackage.dex b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationPackage.dex
+new file mode 100644
+index 0000000..b104dd7
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/.transforms/4d3f033d168bfe3aa8379b64b9d75cf3/transformed/release/com/github/yamill/orientation/OrientationPackage.dex differ
+diff --git a/node_modules/react-native-orientation/android/build/.transforms/60c6adcfb7e5641d6af3356e9f8e87ca/results.bin b/node_modules/react-native-orientation/android/build/.transforms/60c6adcfb7e5641d6af3356e9f8e87ca/results.bin
+new file mode 100644
+index 0000000..1ed65e0
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/.transforms/60c6adcfb7e5641d6af3356e9f8e87ca/results.bin
+@@ -0,0 +1 @@
++i/
+diff --git a/node_modules/react-native-orientation/android/build/generated/source/buildConfig/debug/com/github/yamill/orientation/BuildConfig.java b/node_modules/react-native-orientation/android/build/generated/source/buildConfig/debug/com/github/yamill/orientation/BuildConfig.java
+new file mode 100644
+index 0000000..2b7ab85
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/generated/source/buildConfig/debug/com/github/yamill/orientation/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.github.yamill.orientation;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "com.github.yamill.orientation";
++  public static final String BUILD_TYPE = "debug";
++}
+diff --git a/node_modules/react-native-orientation/android/build/generated/source/buildConfig/release/com/github/yamill/orientation/BuildConfig.java b/node_modules/react-native-orientation/android/build/generated/source/buildConfig/release/com/github/yamill/orientation/BuildConfig.java
+new file mode 100644
+index 0000000..7674611
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/generated/source/buildConfig/release/com/github/yamill/orientation/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.github.yamill.orientation;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = false;
++  public static final String LIBRARY_PACKAGE_NAME = "com.github.yamill.orientation";
++  public static final String BUILD_TYPE = "release";
++}
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml b/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..158bf85
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.github.yamill.orientation" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="22" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json b/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+new file mode 100644
+index 0000000..cdc0bb6
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.github.yamill.orientation",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml b/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..158bf85
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.github.yamill.orientation" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="22" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json b/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json
+new file mode 100644
+index 0000000..7732032
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.github.yamill.orientation",
++  "variantName": "release",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/aar_main_jar/debug/classes.jar b/node_modules/react-native-orientation/android/build/intermediates/aar_main_jar/debug/classes.jar
+new file mode 100644
+index 0000000..e9a05f8
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/aar_main_jar/debug/classes.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/aar_metadata/debug/aar-metadata.properties b/node_modules/react-native-orientation/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+new file mode 100644
+index 0000000..8c9c699
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+@@ -0,0 +1,4 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minAndroidGradlePluginVersion=1.0.0
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/aar_metadata/release/aar-metadata.properties b/node_modules/react-native-orientation/android/build/intermediates/aar_metadata/release/aar-metadata.properties
+new file mode 100644
+index 0000000..8c9c699
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/aar_metadata/release/aar-metadata.properties
+@@ -0,0 +1,4 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minAndroidGradlePluginVersion=1.0.0
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json b/node_modules/react-native-orientation/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json b/node_modules/react-native-orientation/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/annotations_typedef_file/debug/typedefs.txt b/node_modules/react-native-orientation/android/build/intermediates/annotations_typedef_file/debug/typedefs.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/compile_library_classes_jar/debug/classes.jar b/node_modules/react-native-orientation/android/build/intermediates/compile_library_classes_jar/debug/classes.jar
+new file mode 100644
+index 0000000..7e5881b
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/compile_library_classes_jar/debug/classes.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/compile_library_classes_jar/release/classes.jar b/node_modules/react-native-orientation/android/build/intermediates/compile_library_classes_jar/release/classes.jar
+new file mode 100644
+index 0000000..1f2f08d
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/compile_library_classes_jar/release/classes.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/compile_r_class_jar/debug/R.jar b/node_modules/react-native-orientation/android/build/intermediates/compile_r_class_jar/debug/R.jar
+new file mode 100644
+index 0000000..8773e18
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/compile_r_class_jar/debug/R.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/compile_r_class_jar/release/R.jar b/node_modules/react-native-orientation/android/build/intermediates/compile_r_class_jar/release/R.jar
+new file mode 100644
+index 0000000..8773e18
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/compile_r_class_jar/release/R.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/compile_symbol_list/debug/R.txt b/node_modules/react-native-orientation/android/build/intermediates/compile_symbol_list/debug/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/compile_symbol_list/release/R.txt b/node_modules/react-native-orientation/android/build/intermediates/compile_symbol_list/release/R.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/full_jar/debug/full.jar b/node_modules/react-native-orientation/android/build/intermediates/full_jar/debug/full.jar
+new file mode 100644
+index 0000000..6943ed5
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/full_jar/debug/full.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/full_jar/release/full.jar b/node_modules/react-native-orientation/android/build/intermediates/full_jar/release/full.jar
+new file mode 100644
+index 0000000..e37b78d
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/full_jar/release/full.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state b/node_modules/react-native-orientation/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state
+new file mode 100644
+index 0000000..1c983fc
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/incremental/debug-mergeJavaRes/merge-state differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/react-native-orientation/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..dc2df31
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Thu May 04 13:34:37 GST 2023
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/react-native-orientation/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..7da30c8
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/res"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/generated/res/rs/debug"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/res"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/generated/res/rs/debug"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..12724bc
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..b73c1ff
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml b/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..8a1e0ea
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/jniLibs"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/release/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml b/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml
+new file mode 100644
+index 0000000..799d23f
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/shaders"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/release/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/packageDebugAssets/merger.xml b/node_modules/react-native-orientation/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+new file mode 100644
+index 0000000..3818897
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/assets"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/intermediates/shader_assets/debug/out"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/debug/assets"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/packageReleaseAssets/merger.xml b/node_modules/react-native-orientation/android/build/intermediates/incremental/packageReleaseAssets/merger.xml
+new file mode 100644
+index 0000000..d890c24
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/packageReleaseAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/assets"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/intermediates/shader_assets/release/out"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/release/assets"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties b/node_modules/react-native-orientation/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties
+new file mode 100644
+index 0000000..d01a8fd
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties
+@@ -0,0 +1 @@
++#Thu May 04 00:47:47 GST 2023
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml b/node_modules/react-native-orientation/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml
+new file mode 100644
+index 0000000..9686690
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/res"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/generated/res/rs/release"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/generated/res/resValues/release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/res"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/generated/res/rs/release"/><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/build/generated/res/resValues/release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release" generated-set="release$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/BuildConfig.class b/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/BuildConfig.class
+new file mode 100644
+index 0000000..4320b1e
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/BuildConfig.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationModule$1.class b/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationModule$1.class
+new file mode 100644
+index 0000000..aae7058
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationModule$1.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationModule.class b/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationModule.class
+new file mode 100644
+index 0000000..98e4293
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationModule.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationPackage.class b/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationPackage.class
+new file mode 100644
+index 0000000..de5ae87
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/javac/debug/classes/com/github/yamill/orientation/OrientationPackage.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/BuildConfig.class b/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/BuildConfig.class
+new file mode 100644
+index 0000000..c0d4af2
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/BuildConfig.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationModule$1.class b/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationModule$1.class
+new file mode 100644
+index 0000000..aae7058
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationModule$1.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationModule.class b/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationModule.class
+new file mode 100644
+index 0000000..98e4293
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationModule.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationPackage.class b/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationPackage.class
+new file mode 100644
+index 0000000..de5ae87
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/javac/release/classes/com/github/yamill/orientation/OrientationPackage.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/lint_model_metadata/debug/lint-model-metadata.properties b/node_modules/react-native-orientation/android/build/intermediates/lint_model_metadata/debug/lint-model-metadata.properties
+new file mode 100644
+index 0000000..867ecd6
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/lint_model_metadata/debug/lint-model-metadata.properties
+@@ -0,0 +1,2 @@
++mavenArtifactId=react-native-orientation
++mavenGroupId=FinalIntegrationTest
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/local_aar_for_lint/debug/out.aar b/node_modules/react-native-orientation/android/build/intermediates/local_aar_for_lint/debug/out.aar
+new file mode 100644
+index 0000000..b93521c
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/local_aar_for_lint/debug/out.aar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/local_only_symbol_list/debug/R-def.txt b/node_modules/react-native-orientation/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/local_only_symbol_list/release/R-def.txt b/node_modules/react-native-orientation/android/build/intermediates/local_only_symbol_list/release/R-def.txt
+new file mode 100644
+index 0000000..78ac5b8
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/local_only_symbol_list/release/R-def.txt
+@@ -0,0 +1,2 @@
++R_DEF: Internal format may change without notice
++local
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt b/node_modules/react-native-orientation/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..f9eed73
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,11 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.github.yamill.orientation" >
++4
++5    <uses-sdk
++6        android:minSdkVersion="16"
++6-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++7        android:targetSdkVersion="22" />
++7-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++8
++9</manifest>
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt b/node_modules/react-native-orientation/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
+new file mode 100644
+index 0000000..f9eed73
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
+@@ -0,0 +1,11 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.github.yamill.orientation" >
++4
++5    <uses-sdk
++6        android:minSdkVersion="16"
++6-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++7        android:targetSdkVersion="22" />
++7-->/Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++8
++9</manifest>
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/merged_java_res/debug/feature-react-native-orientation.jar b/node_modules/react-native-orientation/android/build/intermediates/merged_java_res/debug/feature-react-native-orientation.jar
+new file mode 100644
+index 0000000..15cb0ec
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/merged_java_res/debug/feature-react-native-orientation.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml b/node_modules/react-native-orientation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+new file mode 100644
+index 0000000..158bf85
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.github.yamill.orientation" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="22" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/merged_manifest/release/AndroidManifest.xml b/node_modules/react-native-orientation/android/build/intermediates/merged_manifest/release/AndroidManifest.xml
+new file mode 100644
+index 0000000..158bf85
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/merged_manifest/release/AndroidManifest.xml
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.github.yamill.orientation" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="22" />
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/navigation_json/debug/navigation.json b/node_modules/react-native-orientation/android/build/intermediates/navigation_json/debug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/navigation_json/debug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/navigation_json/release/navigation.json b/node_modules/react-native-orientation/android/build/intermediates/navigation_json/release/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/navigation_json/release/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/packaged_manifests/debug/output-metadata.json b/node_modules/react-native-orientation/android/build/intermediates/packaged_manifests/debug/output-metadata.json
+new file mode 100644
+index 0000000..8b90e88
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/packaged_manifests/debug/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "PACKAGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.github.yamill.orientation",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "../../merged_manifest/debug/AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/packaged_manifests/release/output-metadata.json b/node_modules/react-native-orientation/android/build/intermediates/packaged_manifests/release/output-metadata.json
+new file mode 100644
+index 0000000..2b1eef8
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/packaged_manifests/release/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "PACKAGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.github.yamill.orientation",
++  "variantName": "release",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "../../merged_manifest/release/AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/BuildConfig.class b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/BuildConfig.class
+new file mode 100644
+index 0000000..4320b1e
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/BuildConfig.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationModule$1.class b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationModule$1.class
+new file mode 100644
+index 0000000..aae7058
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationModule$1.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationModule.class b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationModule.class
+new file mode 100644
+index 0000000..98e4293
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationModule.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationPackage.class b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationPackage.class
+new file mode 100644
+index 0000000..de5ae87
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/debug/com/github/yamill/orientation/OrientationPackage.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/BuildConfig.class b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/BuildConfig.class
+new file mode 100644
+index 0000000..c0d4af2
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/BuildConfig.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationModule$1.class b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationModule$1.class
+new file mode 100644
+index 0000000..aae7058
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationModule$1.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationModule.class b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationModule.class
+new file mode 100644
+index 0000000..98e4293
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationModule.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationPackage.class b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationPackage.class
+new file mode 100644
+index 0000000..de5ae87
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_dir/release/com/github/yamill/orientation/OrientationPackage.class differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar
+new file mode 100644
+index 0000000..5f78e3e
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_jar/release/classes.jar b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_jar/release/classes.jar
+new file mode 100644
+index 0000000..0cb8536
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/intermediates/runtime_library_classes_jar/release/classes.jar differ
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt b/node_modules/react-native-orientation/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+new file mode 100644
+index 0000000..227a9c4
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+@@ -0,0 +1 @@
++com.github.yamill.orientation
+diff --git a/node_modules/react-native-orientation/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt b/node_modules/react-native-orientation/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt
+new file mode 100644
+index 0000000..227a9c4
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt
+@@ -0,0 +1 @@
++com.github.yamill.orientation
+diff --git a/node_modules/react-native-orientation/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/react-native-orientation/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..e2c93cc
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,25 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:1:1-4:12
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:1:1-4:12
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:1:1-4:12
++	package
++		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:2:11-50
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:1:11-69
++uses-sdk
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/react-native-orientation/android/build/outputs/logs/manifest-merger-release-report.txt b/node_modules/react-native-orientation/android/build/outputs/logs/manifest-merger-release-report.txt
+new file mode 100644
+index 0000000..e2c93cc
+--- /dev/null
++++ b/node_modules/react-native-orientation/android/build/outputs/logs/manifest-merger-release-report.txt
+@@ -0,0 +1,25 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:1:1-4:12
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:1:1-4:12
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:1:1-4:12
++	package
++		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:2:11-50
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml:1:11-69
++uses-sdk
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FinalIntegrationWithFoxyModule-3May/foxy_sdk/node_modules/react-native-orientation/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/react-native-orientation/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/react-native-orientation/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..617e704
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/react-native-orientation/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin b/node_modules/react-native-orientation/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..6ee8cc1
+Binary files /dev/null and b/node_modules/react-native-orientation/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin differ

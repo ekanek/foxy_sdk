@@ -1,0 +1,1974 @@
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/results.bin b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/results.bin
+new file mode 100644
+index 0000000..5ff383e
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/results.bin
+@@ -0,0 +1 @@
++o/debug
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/BuildConfig.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/BuildConfig.dex
+new file mode 100644
+index 0000000..6848940
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/BuildConfig.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$1.dex
+new file mode 100644
+index 0000000..edef314
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$10.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$10.dex
+new file mode 100644
+index 0000000..b16e879
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$10.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$11.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$11.dex
+new file mode 100644
+index 0000000..e840c7a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$11.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$12.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$12.dex
+new file mode 100644
+index 0000000..1fc8bdd
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$12.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$2.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$2.dex
+new file mode 100644
+index 0000000..282dddb
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$2.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$3.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$3.dex
+new file mode 100644
+index 0000000..d423017
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$3.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$4.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$4.dex
+new file mode 100644
+index 0000000..40b5cd1
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$4.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$5.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$5.dex
+new file mode 100644
+index 0000000..e81a821
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$5.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$6.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$6.dex
+new file mode 100644
+index 0000000..e24c34e
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$6.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$7.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$7.dex
+new file mode 100644
+index 0000000..f9b4e8e
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$7.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$8.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$8.dex
+new file mode 100644
+index 0000000..302652a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$8.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$9.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$9.dex
+new file mode 100644
+index 0000000..0e29f34
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob$9.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob.dex
+new file mode 100644
+index 0000000..6d1f41c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlob.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody$1.dex
+new file mode 100644
+index 0000000..363b982
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody$FormField.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody$FormField.dex
+new file mode 100644
+index 0000000..d0973ed
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody$FormField.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody.dex
+new file mode 100644
+index 0000000..6f75fac
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobBody.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobConfig.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobConfig.dex
+new file mode 100644
+index 0000000..e1d8924
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobConfig.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobConst.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobConst.dex
+new file mode 100644
+index 0000000..bf9d5a6
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobConst.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$1.dex
+new file mode 100644
+index 0000000..160920b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$2.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$2.dex
+new file mode 100644
+index 0000000..5acd661
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$2.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$3.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$3.dex
+new file mode 100644
+index 0000000..d8e5841
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS$3.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS.dex
+new file mode 100644
+index 0000000..cfcd5a3
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobFS.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobPackage.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobPackage.dex
+new file mode 100644
+index 0000000..9449715
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobPackage.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.dex
+new file mode 100644
+index 0000000..66290e7
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobProgressConfig.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobProgressConfig.dex
+new file mode 100644
+index 0000000..54ade60
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobProgressConfig.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$1.dex
+new file mode 100644
+index 0000000..8bdf581
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$2.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$2.dex
+new file mode 100644
+index 0000000..23cfb10
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$2.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$3.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$3.dex
+new file mode 100644
+index 0000000..28a1188
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$3.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$4.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$4.dex
+new file mode 100644
+index 0000000..c36f13f
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$4.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$RequestType.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$RequestType.dex
+new file mode 100644
+index 0000000..93c14bc
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$RequestType.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.dex
+new file mode 100644
+index 0000000..0bc0874
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseType.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseType.dex
+new file mode 100644
+index 0000000..a636f6d
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseType.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq.dex
+new file mode 100644
+index 0000000..2d532e5
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobReq.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils$1.dex
+new file mode 100644
+index 0000000..dc1bc73
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils$2.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils$2.dex
+new file mode 100644
+index 0000000..13afa54
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils$2.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils.dex
+new file mode 100644
+index 0000000..cb2463b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/RNFetchBlobUtils.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.dex
+new file mode 100644
+index 0000000..2e817a6
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.dex
+new file mode 100644
+index 0000000..5a93250
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.dex
+new file mode 100644
+index 0000000..bc9e34d
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.dex
+new file mode 100644
+index 0000000..702162a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp.dex
+new file mode 100644
+index 0000000..bf01fbc
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Utils/FileProvider.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Utils/FileProvider.dex
+new file mode 100644
+index 0000000..6a020df
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Utils/FileProvider.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Utils/PathResolver.dex b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Utils/PathResolver.dex
+new file mode 100644
+index 0000000..07e467b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/debug/com/RNFetchBlob/Utils/PathResolver.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/desugar_graph.bin b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/desugar_graph.bin
+new file mode 100644
+index 0000000..601f245
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/1608e337c8aac4702c8125b6f6981066/transformed/desugar_graph.bin differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/48f4dbeb30031867840dc4bf63a53cc6/results.bin b/node_modules/rn-fetch-blob/android/build/.transforms/48f4dbeb30031867840dc4bf63a53cc6/results.bin
+new file mode 100644
+index 0000000..1ed65e0
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/.transforms/48f4dbeb30031867840dc4bf63a53cc6/results.bin
+@@ -0,0 +1 @@
++i/
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/6792c42f95c8b55ce0181c9d2b6ac1ad/results.bin b/node_modules/rn-fetch-blob/android/build/.transforms/6792c42f95c8b55ce0181c9d2b6ac1ad/results.bin
+new file mode 100644
+index 0000000..1ed65e0
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/.transforms/6792c42f95c8b55ce0181c9d2b6ac1ad/results.bin
+@@ -0,0 +1 @@
++i/
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/results.bin b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/results.bin
+new file mode 100644
+index 0000000..9e53e72
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/results.bin
+@@ -0,0 +1 @@
++o/release
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/desugar_graph.bin b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/desugar_graph.bin
+new file mode 100644
+index 0000000..601f245
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/desugar_graph.bin differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/BuildConfig.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/BuildConfig.dex
+new file mode 100644
+index 0000000..0ae3078
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/BuildConfig.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$1.dex
+new file mode 100644
+index 0000000..6793fee
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$10.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$10.dex
+new file mode 100644
+index 0000000..4f55d60
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$10.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$11.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$11.dex
+new file mode 100644
+index 0000000..e74dc9a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$11.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$12.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$12.dex
+new file mode 100644
+index 0000000..4d803ca
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$12.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$2.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$2.dex
+new file mode 100644
+index 0000000..9b01df4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$2.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$3.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$3.dex
+new file mode 100644
+index 0000000..96a8cd8
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$3.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$4.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$4.dex
+new file mode 100644
+index 0000000..c98876a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$4.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$5.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$5.dex
+new file mode 100644
+index 0000000..25fb0cd
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$5.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$6.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$6.dex
+new file mode 100644
+index 0000000..587d8be
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$6.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$7.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$7.dex
+new file mode 100644
+index 0000000..2b5cda4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$7.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$8.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$8.dex
+new file mode 100644
+index 0000000..ebd2ba2
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$8.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$9.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$9.dex
+new file mode 100644
+index 0000000..02dc00e
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob$9.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob.dex
+new file mode 100644
+index 0000000..beb1d17
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlob.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody$1.dex
+new file mode 100644
+index 0000000..6a46fd6
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody$FormField.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody$FormField.dex
+new file mode 100644
+index 0000000..0d74f8a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody$FormField.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody.dex
+new file mode 100644
+index 0000000..7c7b6a8
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobBody.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobConfig.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobConfig.dex
+new file mode 100644
+index 0000000..22ff94b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobConfig.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobConst.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobConst.dex
+new file mode 100644
+index 0000000..55aeb9f
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobConst.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$1.dex
+new file mode 100644
+index 0000000..f0ba8c1
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$2.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$2.dex
+new file mode 100644
+index 0000000..16d8e01
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$2.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$3.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$3.dex
+new file mode 100644
+index 0000000..041462b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS$3.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS.dex
+new file mode 100644
+index 0000000..7711a54
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobFS.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobPackage.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobPackage.dex
+new file mode 100644
+index 0000000..744b092
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobPackage.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.dex
+new file mode 100644
+index 0000000..9467d2b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobProgressConfig.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobProgressConfig.dex
+new file mode 100644
+index 0000000..91875ca
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobProgressConfig.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$1.dex
+new file mode 100644
+index 0000000..229ab34
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$2.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$2.dex
+new file mode 100644
+index 0000000..71c13a0
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$2.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$3.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$3.dex
+new file mode 100644
+index 0000000..b383a19
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$3.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$4.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$4.dex
+new file mode 100644
+index 0000000..8262071
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$4.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$RequestType.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$RequestType.dex
+new file mode 100644
+index 0000000..a31ec8a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$RequestType.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.dex
+new file mode 100644
+index 0000000..c28e0aa
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$ResponseType.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$ResponseType.dex
+new file mode 100644
+index 0000000..0906d83
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq$ResponseType.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq.dex
+new file mode 100644
+index 0000000..a86e297
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobReq.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils$1.dex
+new file mode 100644
+index 0000000..e8adb12
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils$2.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils$2.dex
+new file mode 100644
+index 0000000..e06bddc
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils$2.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils.dex
+new file mode 100644
+index 0000000..3b7f1e3
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/RNFetchBlobUtils.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.dex
+new file mode 100644
+index 0000000..4dc192a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.dex
+new file mode 100644
+index 0000000..c4202fd
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.dex
+new file mode 100644
+index 0000000..40bee67
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.dex
+new file mode 100644
+index 0000000..109aab5
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp.dex
+new file mode 100644
+index 0000000..26ff75b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Response/RNFetchBlobFileResp.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Utils/FileProvider.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Utils/FileProvider.dex
+new file mode 100644
+index 0000000..9a6f818
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Utils/FileProvider.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Utils/PathResolver.dex b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Utils/PathResolver.dex
+new file mode 100644
+index 0000000..6de395e
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/.transforms/8ce417622654d40da6feb8f3e0f95bf9/transformed/release/com/RNFetchBlob/Utils/PathResolver.dex differ
+diff --git a/node_modules/rn-fetch-blob/android/build/generated/source/buildConfig/debug/com/RNFetchBlob/BuildConfig.java b/node_modules/rn-fetch-blob/android/build/generated/source/buildConfig/debug/com/RNFetchBlob/BuildConfig.java
+new file mode 100644
+index 0000000..af19780
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/generated/source/buildConfig/debug/com/RNFetchBlob/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.RNFetchBlob;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = Boolean.parseBoolean("true");
++  public static final String LIBRARY_PACKAGE_NAME = "com.RNFetchBlob";
++  public static final String BUILD_TYPE = "debug";
++}
+diff --git a/node_modules/rn-fetch-blob/android/build/generated/source/buildConfig/release/com/RNFetchBlob/BuildConfig.java b/node_modules/rn-fetch-blob/android/build/generated/source/buildConfig/release/com/RNFetchBlob/BuildConfig.java
+new file mode 100644
+index 0000000..b72f1bc
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/generated/source/buildConfig/release/com/RNFetchBlob/BuildConfig.java
+@@ -0,0 +1,10 @@
++/**
++ * Automatically generated file. DO NOT MODIFY
++ */
++package com.RNFetchBlob;
++
++public final class BuildConfig {
++  public static final boolean DEBUG = false;
++  public static final String LIBRARY_PACKAGE_NAME = "com.RNFetchBlob";
++  public static final String BUILD_TYPE = "release";
++}
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml b/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..a769bb1
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+@@ -0,0 +1,36 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.RNFetchBlob" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="28" />
++
++    <!-- Required to access Google Play Licensing -->
++    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
++
++    <!-- Required to download files from Google Play -->
++    <uses-permission android:name="android.permission.INTERNET" />
++
++    <!--
++         Required to keep CPU alive while downloading files
++        (NOT to keep screen awake)
++    -->
++    <uses-permission android:name="android.permission.WAKE_LOCK" />
++
++    <!--
++         Required to poll the state of the network connection
++        and respond to changes
++    -->
++    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
++
++    <!-- Required to check whether Wi-Fi is enabled -->
++    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
++
++    <!-- Required to read and write the expansion files on shared storage -->
++    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++
++    <application android:label="@string/app_name" >
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json b/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+new file mode 100644
+index 0000000..faf009b
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.RNFetchBlob",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml b/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml
+new file mode 100644
+index 0000000..6ef02dd
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/AndroidManifest.xml
+@@ -0,0 +1,45 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.RNFetchBlob" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="28" />
++
++    <!-- Required to access Google Play Licensing -->
++    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
++
++    <!-- Required to download files from Google Play -->
++    <uses-permission android:name="android.permission.INTERNET" />
++
++    <!--
++         Required to keep CPU alive while downloading files
++        (NOT to keep screen awake)
++    -->
++    <uses-permission android:name="android.permission.WAKE_LOCK" />
++
++    <!--
++         Required to poll the state of the network connection
++        and respond to changes
++    -->
++    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
++
++    <!-- Required to check whether Wi-Fi is enabled -->
++    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
++
++    <!-- Required to read and write the expansion files on shared storage -->
++    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++
++    <application android:label="@string/app_name" >
++        <provider
++            android:name="com.RNFetchBlob.Utils.FileProvider"
++            android:authorities="dollar_openBracket_applicationId_closeBracket.provider"
++            android:exported="false"
++            android:grantUriPermissions="true" >
++            <meta-data
++                android:name="android.support.FILE_PROVIDER_PATHS"
++                android:resource="@xml/provider_paths" />
++        </provider>
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json b/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json
+new file mode 100644
+index 0000000..59c45d3
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/release/aapt/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.RNFetchBlob",
++  "variantName": "release",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/aar_metadata/debug/aar-metadata.properties b/node_modules/rn-fetch-blob/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+new file mode 100644
+index 0000000..8c9c699
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/aar_metadata/debug/aar-metadata.properties
+@@ -0,0 +1,4 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minAndroidGradlePluginVersion=1.0.0
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/aar_metadata/release/aar-metadata.properties b/node_modules/rn-fetch-blob/android/build/intermediates/aar_metadata/release/aar-metadata.properties
+new file mode 100644
+index 0000000..8c9c699
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/aar_metadata/release/aar-metadata.properties
+@@ -0,0 +1,4 @@
++aarFormatVersion=1.0
++aarMetadataVersion=1.0
++minCompileSdk=1
++minAndroidGradlePluginVersion=1.0.0
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json b/node_modules/rn-fetch-blob/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/annotation_processor_list/debug/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json b/node_modules/rn-fetch-blob/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json
+new file mode 100644
+index 0000000..9e26dfe
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/annotation_processor_list/release/annotationProcessors.json
+@@ -0,0 +1 @@
++{}
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/compile_library_classes_jar/debug/classes.jar b/node_modules/rn-fetch-blob/android/build/intermediates/compile_library_classes_jar/debug/classes.jar
+new file mode 100644
+index 0000000..b6c504c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/compile_library_classes_jar/debug/classes.jar differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/compile_library_classes_jar/release/classes.jar b/node_modules/rn-fetch-blob/android/build/intermediates/compile_library_classes_jar/release/classes.jar
+new file mode 100644
+index 0000000..719d78a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/compile_library_classes_jar/release/classes.jar differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/compile_r_class_jar/debug/R.jar b/node_modules/rn-fetch-blob/android/build/intermediates/compile_r_class_jar/debug/R.jar
+new file mode 100644
+index 0000000..8aa8505
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/compile_r_class_jar/debug/R.jar differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/compile_r_class_jar/release/R.jar b/node_modules/rn-fetch-blob/android/build/intermediates/compile_r_class_jar/release/R.jar
+new file mode 100644
+index 0000000..b1ee738
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/compile_r_class_jar/release/R.jar differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/compile_symbol_list/debug/R.txt b/node_modules/rn-fetch-blob/android/build/intermediates/compile_symbol_list/debug/R.txt
+new file mode 100644
+index 0000000..a9551e5
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/compile_symbol_list/debug/R.txt
+@@ -0,0 +1 @@
++int string app_name 0x0
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/compile_symbol_list/release/R.txt b/node_modules/rn-fetch-blob/android/build/intermediates/compile_symbol_list/release/R.txt
+new file mode 100644
+index 0000000..b892056
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/compile_symbol_list/release/R.txt
+@@ -0,0 +1,2 @@
++int string app_name 0x0
++int xml provider_paths 0x0
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/compiled_local_resources/release/out/xml_provider_paths.xml.flat b/node_modules/rn-fetch-blob/android/build/intermediates/compiled_local_resources/release/out/xml_provider_paths.xml.flat
+new file mode 100644
+index 0000000..1fa6078
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/compiled_local_resources/release/out/xml_provider_paths.xml.flat differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/full_jar/debug/full.jar b/node_modules/rn-fetch-blob/android/build/intermediates/full_jar/debug/full.jar
+new file mode 100644
+index 0000000..0b9c272
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/full_jar/debug/full.jar differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/full_jar/release/full.jar b/node_modules/rn-fetch-blob/android/build/intermediates/full_jar/release/full.jar
+new file mode 100644
+index 0000000..5563d4c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/full_jar/release/full.jar differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+new file mode 100644
+index 0000000..79cab0c
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
+@@ -0,0 +1,2 @@
++#Tue May 02 14:18:07 GST 2023
++com.RNFetchBlob.rn-fetch-blob-main-7\:/xml/provider_paths.xml=/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+new file mode 100644
+index 0000000..30f1a00
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/res"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/generated/res/rs/debug"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/res"><file path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">rn-fetch-blob</string></file></source><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/generated/res/rs/debug"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..fbf9aa5
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/debug/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeDebugShaders/merger.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+new file mode 100644
+index 0000000..9aeb007
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeDebugShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/debug/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml
+new file mode 100644
+index 0000000..4e68e52
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/jniLibs"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/release/jniLibs"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml
+new file mode 100644
+index 0000000..dff1f67
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/mergeReleaseShaders/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/shaders"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/release/shaders"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/packageDebugAssets/merger.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+new file mode 100644
+index 0000000..695932b
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/packageDebugAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/assets"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/intermediates/shader_assets/debug/out"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/debug/assets"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/packageReleaseAssets/merger.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/packageReleaseAssets/merger.xml
+new file mode 100644
+index 0000000..6d90e77
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/packageReleaseAssets/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/assets"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/intermediates/shader_assets/release/out"/></dataSet><dataSet config="release" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/release/assets"/></dataSet></merger>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties
+new file mode 100644
+index 0000000..74b4dda
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/compile-file-map.properties
+@@ -0,0 +1,2 @@
++#Tue May 02 13:59:47 GST 2023
++com.RNFetchBlob.rn-fetch-blob-main-6\:/xml/provider_paths.xml=/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/release/xml/provider_paths.xml
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/merged.dir/values/values.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/merged.dir/values/values.xml
+new file mode 100644
+index 0000000..26112b2
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/merged.dir/values/values.xml
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="utf-8"?>
++<resources>
++    <string name="app_name">rn-fetch-blob</string>
++</resources>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml
+new file mode 100644
+index 0000000..0aa29a7
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/incremental/release/packageReleaseResources/merger.xml
+@@ -0,0 +1,2 @@
++<?xml version="1.0" encoding="utf-8"?>
++<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/res"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/generated/res/rs/release"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/generated/res/resValues/release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/res"><file path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">rn-fetch-blob</string></file><file name="provider_paths" path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/res/xml/provider_paths.xml" qualifiers="" type="xml"/></source><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/generated/res/rs/release"/><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/build/generated/res/resValues/release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release" generated-set="release$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/BuildConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/BuildConfig.class
+new file mode 100644
+index 0000000..e412ddf
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/BuildConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$1.class
+new file mode 100644
+index 0000000..165b125
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$10.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$10.class
+new file mode 100644
+index 0000000..691b050
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$10.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$11.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$11.class
+new file mode 100644
+index 0000000..7aab949
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$11.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$12.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$12.class
+new file mode 100644
+index 0000000..015ced4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$12.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$2.class
+new file mode 100644
+index 0000000..606ea5a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$3.class
+new file mode 100644
+index 0000000..3757b13
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$4.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$4.class
+new file mode 100644
+index 0000000..61040ec
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$4.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$5.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$5.class
+new file mode 100644
+index 0000000..39b9579
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$5.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$6.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$6.class
+new file mode 100644
+index 0000000..55fa657
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$6.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$7.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$7.class
+new file mode 100644
+index 0000000..8ec3e65
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$7.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$8.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$8.class
+new file mode 100644
+index 0000000..d64efd5
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$8.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$9.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$9.class
+new file mode 100644
+index 0000000..75e82d9
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob$9.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob.class
+new file mode 100644
+index 0000000..43ce80b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlob.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody$1.class
+new file mode 100644
+index 0000000..2d81e42
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody$FormField.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody$FormField.class
+new file mode 100644
+index 0000000..7da3ec4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody$FormField.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody.class
+new file mode 100644
+index 0000000..47ff29c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobBody.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobConfig.class
+new file mode 100644
+index 0000000..9de7bb6
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobConst.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobConst.class
+new file mode 100644
+index 0000000..5923050
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobConst.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$1.class
+new file mode 100644
+index 0000000..9adc030
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$2.class
+new file mode 100644
+index 0000000..e02fa0a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$3.class
+new file mode 100644
+index 0000000..bf73257
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS.class
+new file mode 100644
+index 0000000..a891616
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobFS.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobPackage.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobPackage.class
+new file mode 100644
+index 0000000..7de3e56
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobPackage.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class
+new file mode 100644
+index 0000000..934f74c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobProgressConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobProgressConfig.class
+new file mode 100644
+index 0000000..422c2df
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobProgressConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$1.class
+new file mode 100644
+index 0000000..0379a21
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$2.class
+new file mode 100644
+index 0000000..c2fddde
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$3.class
+new file mode 100644
+index 0000000..9411943
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$4.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$4.class
+new file mode 100644
+index 0000000..9dfc7fa
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$4.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$RequestType.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$RequestType.class
+new file mode 100644
+index 0000000..0b81c73
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$RequestType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class
+new file mode 100644
+index 0000000..ed7e6d3
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class
+new file mode 100644
+index 0000000..af6f49a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq.class
+new file mode 100644
+index 0000000..a703f7f
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobReq.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils$1.class
+new file mode 100644
+index 0000000..89b374b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils$2.class
+new file mode 100644
+index 0000000..dcfc205
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils.class
+new file mode 100644
+index 0000000..88e1305
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/RNFetchBlobUtils.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class
+new file mode 100644
+index 0000000..5021855
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class
+new file mode 100644
+index 0000000..1a78288
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class
+new file mode 100644
+index 0000000..5cb67ec
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class
+new file mode 100644
+index 0000000..8e030ff
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp.class
+new file mode 100644
+index 0000000..ef08522
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Utils/FileProvider.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Utils/FileProvider.class
+new file mode 100644
+index 0000000..0ae2abc
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Utils/FileProvider.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Utils/PathResolver.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Utils/PathResolver.class
+new file mode 100644
+index 0000000..58e50ba
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/debug/classes/com/RNFetchBlob/Utils/PathResolver.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/BuildConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/BuildConfig.class
+new file mode 100644
+index 0000000..26d90d7
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/BuildConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$1.class
+new file mode 100644
+index 0000000..165b125
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$10.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$10.class
+new file mode 100644
+index 0000000..691b050
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$10.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$11.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$11.class
+new file mode 100644
+index 0000000..7aab949
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$11.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$12.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$12.class
+new file mode 100644
+index 0000000..015ced4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$12.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$2.class
+new file mode 100644
+index 0000000..606ea5a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$3.class
+new file mode 100644
+index 0000000..3757b13
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$4.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$4.class
+new file mode 100644
+index 0000000..61040ec
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$4.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$5.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$5.class
+new file mode 100644
+index 0000000..39b9579
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$5.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$6.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$6.class
+new file mode 100644
+index 0000000..55fa657
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$6.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$7.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$7.class
+new file mode 100644
+index 0000000..8ec3e65
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$7.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$8.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$8.class
+new file mode 100644
+index 0000000..d64efd5
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$8.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$9.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$9.class
+new file mode 100644
+index 0000000..75e82d9
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob$9.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob.class
+new file mode 100644
+index 0000000..43ce80b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlob.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody$1.class
+new file mode 100644
+index 0000000..2d81e42
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody$FormField.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody$FormField.class
+new file mode 100644
+index 0000000..7da3ec4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody$FormField.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody.class
+new file mode 100644
+index 0000000..47ff29c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobBody.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobConfig.class
+new file mode 100644
+index 0000000..9de7bb6
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobConst.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobConst.class
+new file mode 100644
+index 0000000..5923050
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobConst.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$1.class
+new file mode 100644
+index 0000000..9adc030
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$2.class
+new file mode 100644
+index 0000000..e02fa0a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$3.class
+new file mode 100644
+index 0000000..bf73257
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS.class
+new file mode 100644
+index 0000000..a891616
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobFS.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobPackage.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobPackage.class
+new file mode 100644
+index 0000000..7de3e56
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobPackage.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class
+new file mode 100644
+index 0000000..934f74c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobProgressConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobProgressConfig.class
+new file mode 100644
+index 0000000..422c2df
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobProgressConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$1.class
+new file mode 100644
+index 0000000..0379a21
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$2.class
+new file mode 100644
+index 0000000..c2fddde
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$3.class
+new file mode 100644
+index 0000000..9411943
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$4.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$4.class
+new file mode 100644
+index 0000000..9dfc7fa
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$4.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$RequestType.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$RequestType.class
+new file mode 100644
+index 0000000..0b81c73
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$RequestType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class
+new file mode 100644
+index 0000000..ed7e6d3
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class
+new file mode 100644
+index 0000000..af6f49a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq.class
+new file mode 100644
+index 0000000..a703f7f
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobReq.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils$1.class
+new file mode 100644
+index 0000000..89b374b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils$2.class
+new file mode 100644
+index 0000000..dcfc205
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils.class
+new file mode 100644
+index 0000000..88e1305
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/RNFetchBlobUtils.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class
+new file mode 100644
+index 0000000..5021855
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class
+new file mode 100644
+index 0000000..1a78288
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class
+new file mode 100644
+index 0000000..5cb67ec
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class
+new file mode 100644
+index 0000000..8e030ff
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp.class
+new file mode 100644
+index 0000000..ef08522
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Response/RNFetchBlobFileResp.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Utils/FileProvider.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Utils/FileProvider.class
+new file mode 100644
+index 0000000..0ae2abc
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Utils/FileProvider.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Utils/PathResolver.class b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Utils/PathResolver.class
+new file mode 100644
+index 0000000..58e50ba
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/javac/release/classes/com/RNFetchBlob/Utils/PathResolver.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/local_only_symbol_list/debug/R-def.txt b/node_modules/rn-fetch-blob/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+new file mode 100644
+index 0000000..34ca0ec
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
+@@ -0,0 +1,3 @@
++R_DEF: Internal format may change without notice
++local
++string app_name
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/local_only_symbol_list/release/R-def.txt b/node_modules/rn-fetch-blob/android/build/intermediates/local_only_symbol_list/release/R-def.txt
+new file mode 100644
+index 0000000..1e08740
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/local_only_symbol_list/release/R-def.txt
+@@ -0,0 +1,4 @@
++R_DEF: Internal format may change without notice
++local
++string app_name
++xml provider_paths
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt b/node_modules/rn-fetch-blob/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+new file mode 100644
+index 0000000..48c411f
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt
+@@ -0,0 +1,52 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.RNFetchBlob" >
++4
++5    <uses-sdk
++6        android:minSdkVersion="16"
++6-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++7        android:targetSdkVersion="28" />
++7-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++8
++9    <!-- Required to access Google Play Licensing -->
++10    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
++10-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:5:5-73
++10-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:5:22-70
++11
++12    <!-- Required to download files from Google Play -->
++13    <uses-permission android:name="android.permission.INTERNET" />
++13-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:8:5-67
++13-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:8:22-64
++14
++15    <!--
++16         Required to keep CPU alive while downloading files
++17        (NOT to keep screen awake)
++18    -->
++19    <uses-permission android:name="android.permission.WAKE_LOCK" />
++19-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:12:5-68
++19-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:12:22-65
++20
++21    <!--
++22         Required to poll the state of the network connection
++23        and respond to changes
++24    -->
++25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
++25-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:16:5-79
++25-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:16:22-76
++26
++27    <!-- Required to check whether Wi-Fi is enabled -->
++28    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
++28-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:19:5-76
++28-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:19:22-73
++29
++30    <!-- Required to read and write the expansion files on shared storage -->
++31    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++31-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:22:5-81
++31-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:22:22-78
++32
++33    <application android:label="@string/app_name" >
++33-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:24:5-27:19
++33-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:24:18-50
++34    </application>
++35
++36</manifest>
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt b/node_modules/rn-fetch-blob/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
+new file mode 100644
+index 0000000..ded9764
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/manifest_merge_blame_file/release/manifest-merger-blame-release-report.txt
+@@ -0,0 +1,69 @@
++1<?xml version="1.0" encoding="utf-8"?>
++2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++3    package="com.RNFetchBlob" >
++4
++5    <uses-sdk
++6        android:minSdkVersion="16"
++6-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++7        android:targetSdkVersion="28" />
++7-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++8
++9    <!-- Required to access Google Play Licensing -->
++10    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
++10-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:5:5-73
++10-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:5:22-70
++11
++12    <!-- Required to download files from Google Play -->
++13    <uses-permission android:name="android.permission.INTERNET" />
++13-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:8:5-67
++13-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:8:22-64
++14
++15    <!--
++16         Required to keep CPU alive while downloading files
++17        (NOT to keep screen awake)
++18    -->
++19    <uses-permission android:name="android.permission.WAKE_LOCK" />
++19-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:12:5-68
++19-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:12:22-65
++20
++21    <!--
++22         Required to poll the state of the network connection
++23        and respond to changes
++24    -->
++25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
++25-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:16:5-79
++25-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:16:22-76
++26
++27    <!-- Required to check whether Wi-Fi is enabled -->
++28    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
++28-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:19:5-76
++28-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:19:22-73
++29
++30    <!-- Required to read and write the expansion files on shared storage -->
++31    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++31-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:22:5-81
++31-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:22:22-78
++32
++33    <application android:label="@string/app_name" >
++33-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:24:5-35:19
++33-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:24:18-50
++34        <provider
++34-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:26:9-34:20
++35            android:name="com.RNFetchBlob.Utils.FileProvider"
++35-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:27:13-62
++36            android:authorities="${applicationId}.provider"
++36-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:28:13-60
++37            android:exported="false"
++37-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:29:13-37
++38            android:grantUriPermissions="true" >
++38-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:30:13-47
++39            <meta-data
++39-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:31:13-33:58
++40                android:name="android.support.FILE_PROVIDER_PATHS"
++40-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:32:17-67
++41                android:resource="@xml/provider_paths" />
++41-->/Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:33:17-55
++42        </provider>
++43    </application>
++44
++45</manifest>
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml b/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+new file mode 100644
+index 0000000..a769bb1
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml
+@@ -0,0 +1,36 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.RNFetchBlob" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="28" />
++
++    <!-- Required to access Google Play Licensing -->
++    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
++
++    <!-- Required to download files from Google Play -->
++    <uses-permission android:name="android.permission.INTERNET" />
++
++    <!--
++         Required to keep CPU alive while downloading files
++        (NOT to keep screen awake)
++    -->
++    <uses-permission android:name="android.permission.WAKE_LOCK" />
++
++    <!--
++         Required to poll the state of the network connection
++        and respond to changes
++    -->
++    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
++
++    <!-- Required to check whether Wi-Fi is enabled -->
++    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
++
++    <!-- Required to read and write the expansion files on shared storage -->
++    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++
++    <application android:label="@string/app_name" >
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml b/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml
+new file mode 100644
+index 0000000..f350309
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml
+@@ -0,0 +1,45 @@
++<?xml version="1.0" encoding="utf-8"?>
++<manifest xmlns:android="http://schemas.android.com/apk/res/android"
++    package="com.RNFetchBlob" >
++
++    <uses-sdk
++        android:minSdkVersion="16"
++        android:targetSdkVersion="28" />
++
++    <!-- Required to access Google Play Licensing -->
++    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
++
++    <!-- Required to download files from Google Play -->
++    <uses-permission android:name="android.permission.INTERNET" />
++
++    <!--
++         Required to keep CPU alive while downloading files
++        (NOT to keep screen awake)
++    -->
++    <uses-permission android:name="android.permission.WAKE_LOCK" />
++
++    <!--
++         Required to poll the state of the network connection
++        and respond to changes
++    -->
++    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
++
++    <!-- Required to check whether Wi-Fi is enabled -->
++    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
++
++    <!-- Required to read and write the expansion files on shared storage -->
++    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
++
++    <application android:label="@string/app_name" >
++        <provider
++            android:name="com.RNFetchBlob.Utils.FileProvider"
++            android:authorities="${applicationId}.provider"
++            android:exported="false"
++            android:grantUriPermissions="true" >
++            <meta-data
++                android:name="android.support.FILE_PROVIDER_PATHS"
++                android:resource="@xml/provider_paths" />
++        </provider>
++    </application>
++
++</manifest>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/navigation_json/debug/navigation.json b/node_modules/rn-fetch-blob/android/build/intermediates/navigation_json/debug/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/navigation_json/debug/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/navigation_json/release/navigation.json b/node_modules/rn-fetch-blob/android/build/intermediates/navigation_json/release/navigation.json
+new file mode 100644
+index 0000000..0637a08
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/navigation_json/release/navigation.json
+@@ -0,0 +1 @@
++[]
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/packaged_manifests/debug/output-metadata.json b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_manifests/debug/output-metadata.json
+new file mode 100644
+index 0000000..d56baa6
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_manifests/debug/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "PACKAGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.RNFetchBlob",
++  "variantName": "debug",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "../../merged_manifest/debug/AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/packaged_manifests/release/output-metadata.json b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_manifests/release/output-metadata.json
+new file mode 100644
+index 0000000..9686dbd
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_manifests/release/output-metadata.json
+@@ -0,0 +1,18 @@
++{
++  "version": 3,
++  "artifactType": {
++    "type": "PACKAGED_MANIFESTS",
++    "kind": "Directory"
++  },
++  "applicationId": "com.RNFetchBlob",
++  "variantName": "release",
++  "elements": [
++    {
++      "type": "SINGLE",
++      "filters": [],
++      "attributes": [],
++      "outputFile": "../../merged_manifest/release/AndroidManifest.xml"
++    }
++  ],
++  "elementType": "File"
++}
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/debug/values/values.xml b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/debug/values/values.xml
+new file mode 100644
+index 0000000..26112b2
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/debug/values/values.xml
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="utf-8"?>
++<resources>
++    <string name="app_name">rn-fetch-blob</string>
++</resources>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/release/values/values.xml b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/release/values/values.xml
+new file mode 100644
+index 0000000..26112b2
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/release/values/values.xml
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="utf-8"?>
++<resources>
++    <string name="app_name">rn-fetch-blob</string>
++</resources>
+\ No newline at end of file
+diff --git a/node_modules/rn-fetch-blob/android/src/main/res/xml/provider_paths.xml b/node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/release/xml/provider_paths.xml
+similarity index 100%
+rename from node_modules/rn-fetch-blob/android/src/main/res/xml/provider_paths.xml
+rename to node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/release/xml/provider_paths.xml
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/BuildConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/BuildConfig.class
+new file mode 100644
+index 0000000..e412ddf
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/BuildConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$1.class
+new file mode 100644
+index 0000000..165b125
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$10.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$10.class
+new file mode 100644
+index 0000000..691b050
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$10.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$11.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$11.class
+new file mode 100644
+index 0000000..7aab949
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$11.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$12.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$12.class
+new file mode 100644
+index 0000000..015ced4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$12.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$2.class
+new file mode 100644
+index 0000000..606ea5a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$3.class
+new file mode 100644
+index 0000000..3757b13
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$4.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$4.class
+new file mode 100644
+index 0000000..61040ec
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$4.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$5.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$5.class
+new file mode 100644
+index 0000000..39b9579
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$5.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$6.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$6.class
+new file mode 100644
+index 0000000..55fa657
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$6.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$7.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$7.class
+new file mode 100644
+index 0000000..8ec3e65
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$7.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$8.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$8.class
+new file mode 100644
+index 0000000..d64efd5
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$8.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$9.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$9.class
+new file mode 100644
+index 0000000..75e82d9
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob$9.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob.class
+new file mode 100644
+index 0000000..43ce80b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlob.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody$1.class
+new file mode 100644
+index 0000000..2d81e42
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody$FormField.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody$FormField.class
+new file mode 100644
+index 0000000..7da3ec4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody$FormField.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody.class
+new file mode 100644
+index 0000000..47ff29c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobBody.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobConfig.class
+new file mode 100644
+index 0000000..9de7bb6
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobConst.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobConst.class
+new file mode 100644
+index 0000000..5923050
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobConst.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$1.class
+new file mode 100644
+index 0000000..9adc030
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$2.class
+new file mode 100644
+index 0000000..e02fa0a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$3.class
+new file mode 100644
+index 0000000..bf73257
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS.class
+new file mode 100644
+index 0000000..a891616
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobFS.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobPackage.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobPackage.class
+new file mode 100644
+index 0000000..7de3e56
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobPackage.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class
+new file mode 100644
+index 0000000..934f74c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobProgressConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobProgressConfig.class
+new file mode 100644
+index 0000000..422c2df
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobProgressConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$1.class
+new file mode 100644
+index 0000000..0379a21
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$2.class
+new file mode 100644
+index 0000000..c2fddde
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$3.class
+new file mode 100644
+index 0000000..9411943
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$4.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$4.class
+new file mode 100644
+index 0000000..9dfc7fa
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$4.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$RequestType.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$RequestType.class
+new file mode 100644
+index 0000000..0b81c73
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$RequestType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class
+new file mode 100644
+index 0000000..ed7e6d3
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class
+new file mode 100644
+index 0000000..af6f49a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq.class
+new file mode 100644
+index 0000000..a703f7f
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobReq.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils$1.class
+new file mode 100644
+index 0000000..89b374b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils$2.class
+new file mode 100644
+index 0000000..dcfc205
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils.class
+new file mode 100644
+index 0000000..88e1305
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/RNFetchBlobUtils.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class
+new file mode 100644
+index 0000000..5021855
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class
+new file mode 100644
+index 0000000..1a78288
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class
+new file mode 100644
+index 0000000..5cb67ec
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class
+new file mode 100644
+index 0000000..8e030ff
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp.class
+new file mode 100644
+index 0000000..ef08522
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Response/RNFetchBlobFileResp.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Utils/FileProvider.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Utils/FileProvider.class
+new file mode 100644
+index 0000000..0ae2abc
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Utils/FileProvider.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Utils/PathResolver.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Utils/PathResolver.class
+new file mode 100644
+index 0000000..58e50ba
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/debug/com/RNFetchBlob/Utils/PathResolver.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/BuildConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/BuildConfig.class
+new file mode 100644
+index 0000000..26d90d7
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/BuildConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$1.class
+new file mode 100644
+index 0000000..165b125
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$10.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$10.class
+new file mode 100644
+index 0000000..691b050
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$10.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$11.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$11.class
+new file mode 100644
+index 0000000..7aab949
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$11.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$12.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$12.class
+new file mode 100644
+index 0000000..015ced4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$12.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$2.class
+new file mode 100644
+index 0000000..606ea5a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$3.class
+new file mode 100644
+index 0000000..3757b13
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$4.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$4.class
+new file mode 100644
+index 0000000..61040ec
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$4.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$5.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$5.class
+new file mode 100644
+index 0000000..39b9579
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$5.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$6.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$6.class
+new file mode 100644
+index 0000000..55fa657
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$6.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$7.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$7.class
+new file mode 100644
+index 0000000..8ec3e65
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$7.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$8.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$8.class
+new file mode 100644
+index 0000000..d64efd5
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$8.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$9.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$9.class
+new file mode 100644
+index 0000000..75e82d9
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob$9.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob.class
+new file mode 100644
+index 0000000..43ce80b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlob.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody$1.class
+new file mode 100644
+index 0000000..2d81e42
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody$FormField.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody$FormField.class
+new file mode 100644
+index 0000000..7da3ec4
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody$FormField.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody.class
+new file mode 100644
+index 0000000..47ff29c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobBody.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobConfig.class
+new file mode 100644
+index 0000000..9de7bb6
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobConst.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobConst.class
+new file mode 100644
+index 0000000..5923050
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobConst.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$1.class
+new file mode 100644
+index 0000000..9adc030
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$2.class
+new file mode 100644
+index 0000000..e02fa0a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$3.class
+new file mode 100644
+index 0000000..bf73257
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS.class
+new file mode 100644
+index 0000000..a891616
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobFS.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobPackage.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobPackage.class
+new file mode 100644
+index 0000000..7de3e56
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobPackage.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class
+new file mode 100644
+index 0000000..934f74c
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobProgressConfig$ReportType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobProgressConfig.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobProgressConfig.class
+new file mode 100644
+index 0000000..422c2df
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobProgressConfig.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$1.class
+new file mode 100644
+index 0000000..0379a21
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$2.class
+new file mode 100644
+index 0000000..c2fddde
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$3.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$3.class
+new file mode 100644
+index 0000000..9411943
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$3.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$4.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$4.class
+new file mode 100644
+index 0000000..9dfc7fa
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$4.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$RequestType.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$RequestType.class
+new file mode 100644
+index 0000000..0b81c73
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$RequestType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class
+new file mode 100644
+index 0000000..ed7e6d3
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$ResponseFormat.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class
+new file mode 100644
+index 0000000..af6f49a
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq$ResponseType.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq.class
+new file mode 100644
+index 0000000..a703f7f
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobReq.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils$1.class
+new file mode 100644
+index 0000000..89b374b
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils$2.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils$2.class
+new file mode 100644
+index 0000000..dcfc205
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils$2.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils.class
+new file mode 100644
+index 0000000..88e1305
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/RNFetchBlobUtils.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class
+new file mode 100644
+index 0000000..5021855
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp$ProgressReportingSource.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class
+new file mode 100644
+index 0000000..1a78288
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobDefaultResp.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class
+new file mode 100644
+index 0000000..5cb67ec
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$1.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class
+new file mode 100644
+index 0000000..8e030ff
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp$ProgressReportingSource.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp.class
+new file mode 100644
+index 0000000..ef08522
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Response/RNFetchBlobFileResp.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Utils/FileProvider.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Utils/FileProvider.class
+new file mode 100644
+index 0000000..0ae2abc
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Utils/FileProvider.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Utils/PathResolver.class b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Utils/PathResolver.class
+new file mode 100644
+index 0000000..58e50ba
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_dir/release/com/RNFetchBlob/Utils/PathResolver.class differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar
+new file mode 100644
+index 0000000..d94bfd3
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_jar/release/classes.jar b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_jar/release/classes.jar
+new file mode 100644
+index 0000000..2b6a2b3
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/intermediates/runtime_library_classes_jar/release/classes.jar differ
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt b/node_modules/rn-fetch-blob/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+new file mode 100644
+index 0000000..fb17256
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
+@@ -0,0 +1,2 @@
++com.RNFetchBlob
++string app_name
+diff --git a/node_modules/rn-fetch-blob/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt b/node_modules/rn-fetch-blob/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt
+new file mode 100644
+index 0000000..9bb237d
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/intermediates/symbol_list_with_package_name/release/package-aware-r.txt
+@@ -0,0 +1,3 @@
++com.RNFetchBlob
++string app_name
++xml provider_paths
+diff --git a/node_modules/rn-fetch-blob/android/build/outputs/logs/manifest-merger-debug-report.txt b/node_modules/rn-fetch-blob/android/build/outputs/logs/manifest-merger-debug-report.txt
+new file mode 100644
+index 0000000..45d2b7b
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/outputs/logs/manifest-merger-debug-report.txt
+@@ -0,0 +1,53 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:1:1-29:12
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:1:1-29:12
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:1:1-29:12
++	package
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:2:5-30
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:1:11-69
++uses-permission#com.android.vending.CHECK_LICENSE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:5:5-73
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:5:22-70
++uses-permission#android.permission.INTERNET
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:8:5-67
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:8:22-64
++uses-permission#android.permission.WAKE_LOCK
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:12:5-68
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:12:22-65
++uses-permission#android.permission.ACCESS_NETWORK_STATE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:16:5-79
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:16:22-76
++uses-permission#android.permission.ACCESS_WIFI_STATE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:19:5-76
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:19:22-73
++uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:22:5-81
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:22:22-78
++application
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:24:5-27:19
++	android:label
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:24:18-50
++uses-sdk
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/rn-fetch-blob/android/build/outputs/logs/manifest-merger-release-report.txt b/node_modules/rn-fetch-blob/android/build/outputs/logs/manifest-merger-release-report.txt
+new file mode 100644
+index 0000000..0a6af64
+--- /dev/null
++++ b/node_modules/rn-fetch-blob/android/build/outputs/logs/manifest-merger-release-report.txt
+@@ -0,0 +1,69 @@
++-- Merging decision tree log ---
++manifest
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:1:1-37:12
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:1:1-37:12
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:1:1-37:12
++	package
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:2:5-30
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++	xmlns:android
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:1:11-69
++uses-permission#com.android.vending.CHECK_LICENSE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:5:5-73
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:5:22-70
++uses-permission#android.permission.INTERNET
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:8:5-67
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:8:22-64
++uses-permission#android.permission.WAKE_LOCK
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:12:5-68
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:12:22-65
++uses-permission#android.permission.ACCESS_NETWORK_STATE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:16:5-79
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:16:22-76
++uses-permission#android.permission.ACCESS_WIFI_STATE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:19:5-76
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:19:22-73
++uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:22:5-81
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:22:22-78
++application
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:24:5-35:19
++	android:label
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:24:18-50
++provider#com.RNFetchBlob.Utils.FileProvider
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:26:9-34:20
++	android:grantUriPermissions
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:30:13-47
++	android:authorities
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:28:13-60
++	android:exported
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:29:13-37
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:27:13-62
++meta-data#android.support.FILE_PROVIDER_PATHS
++ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:31:13-33:58
++	android:resource
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:33:17-55
++	android:name
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml:32:17-67
++uses-sdk
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++	android:targetSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++	android:minSdkVersion
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		ADDED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++		INJECTED from /Users/pardeepkumar/Code/FoxySDKIntegration/foxy_sdk/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
+diff --git a/node_modules/rn-fetch-blob/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/rn-fetch-blob/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..ebe97b2
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/rn-fetch-blob/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin b/node_modules/rn-fetch-blob/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin
+new file mode 100644
+index 0000000..2d7c286
+Binary files /dev/null and b/node_modules/rn-fetch-blob/android/build/tmp/compileReleaseJavaWithJavac/previous-compilation-data.bin differ
+diff --git a/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml b/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
+index 1c92420..6ecc28b 100644
+--- a/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
++++ b/node_modules/rn-fetch-blob/android/src/main/AndroidManifest.xml
+@@ -23,15 +23,7 @@
+ 
+     <application android:label="@string/app_name">
+ 
+-        <provider
+-            android:name="com.RNFetchBlob.Utils.FileProvider"
+-            android:authorities="${applicationId}.provider"
+-            android:exported="false"
+-            android:grantUriPermissions="true">
+-            <meta-data
+-                android:name="android.support.FILE_PROVIDER_PATHS"
+-                android:resource="@xml/provider_paths" />
+-        </provider>
++
+     </application>
+ 
+ </manifest>

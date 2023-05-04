@@ -1,0 +1,50 @@
+diff --git a/node_modules/react-native-cardview/android/build.gradle b/node_modules/react-native-cardview/android/build.gradle
+index 064cb88..00db23e 100644
+--- a/node_modules/react-native-cardview/android/build.gradle
++++ b/node_modules/react-native-cardview/android/build.gradle
+@@ -1,11 +1,15 @@
+ 
+ buildscript {
+     repositories {
+-        jcenter()
++        mavenCentral()
++    	google()
++    	maven {
++            url "https://maven.google.com"
++    	}
+     }
+ 
+     dependencies {
+-        classpath 'com.android.tools.build:gradle:2.2.3'
++        classpath 'com.android.tools.build:gradle:4.1.3'
+     }
+ }
+ 
+@@ -28,10 +32,11 @@ android {
+ 
+ repositories {
+     mavenCentral()
++    google()
+ }
+ 
+ dependencies {
+-    compile 'com.facebook.react:react-native:+'
+-    compile 'com.android.support:cardview-v7:27.1.1'
++    implementation 'com.facebook.react:react-native:+'
++    implementation 'com.android.support:cardview-v7:27.1.1'
+ }
+   
+\ No newline at end of file
+diff --git a/node_modules/react-native-cardview/android/src/main/java/com/kishanjvaghela/cardview/RNCardView.java b/node_modules/react-native-cardview/android/src/main/java/com/kishanjvaghela/cardview/RNCardView.java
+index 8ba71c9..6183728 100644
+--- a/node_modules/react-native-cardview/android/src/main/java/com/kishanjvaghela/cardview/RNCardView.java
++++ b/node_modules/react-native-cardview/android/src/main/java/com/kishanjvaghela/cardview/RNCardView.java
+@@ -1,7 +1,7 @@
+ package com.kishanjvaghela.cardview;
+ 
+ import android.content.Context;
+-import android.support.v7.widget.CardView;
++import androidx.cardview.widget.CardView;
+ import android.util.AttributeSet;
+ 
+ import com.facebook.react.uimanager.PixelUtil;
